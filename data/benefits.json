@@ -29,10 +29,10 @@
       "ht": "Pifò imigran adilt dwe gen estati legal pou 5 ane oswa plis. Refijye ak moun ki gen azil ka kalifye imedyatman."
     },
       "documents": {
-        "en": "ID, Social Security number (for those applying), proof of address, recent pay stubs or income, and rent/utility bills.",
-        "es": "Identificación, número de Seguro Social (de quienes solicitan), prueba de domicilio, recibos de pago recientes y facturas de alquiler/servicios.",
-        "pt": "Identificação, número de Seguro Social (de quem está solicitando), comprovante de endereço, contracheques recentes e contas de aluguel/serviços.",
-        "ht": "Idantifikasyon, nimewo Sekirite Sosyal (pou moun k ap aplike yo), prèv adrès, dènye pay stub yo, ak fakti lwaye/sèvis."
+        "en": "ID, Social Security number, proof of address, recent pay stubs or income, and rent/utility bills.",
+        "es": "Identificación, número de Seguro Social, prueba de domicilio, recibos de pago recientes y facturas de alquiler/servicios.",
+        "pt": "Identificação, número de Seguro Social, comprovante de endereço, contracheques recentes e contas de aluguel/serviços.",
+        "ht": "Idantifikasyon, nimewo Sekirite Sosyal, prèv adrès, dènye pay stub yo, ak fakti lwaye/sèvis."
       },
       "howToApply": {
         "en": "Apply online at healthyrhode.ri.gov, by phone at (855) 697-4347, or in person at any DHS office.",
