@@ -1,0 +1,32 @@
+{
+  "lastUpdated": "2026-04-30",
+  "city": "Providence, RI",
+  "resources": [
+    {
+      "id": "rifb-main",
+      "name": "Rhode Island Community Food Bank",
+      "category": "food",
+      "address": "200 Niantic Ave, Providence, RI 02907",
+      "lat": 41.7892,
+      "lng": -71.4419,
+      "phone": "(401) 942-6325",
+      "website": "https://rifoodbank.org",
+      "hours": "Mon-Fri 9am-3pm",
+      "languages": ["en", "es"],
+      "notes": "Largest food distribution hub in RI. Find a partner pantry near you on their site."
+    },
+    {
+      "id": "crossroads-housing",
+      "name": "Crossroads Rhode Island",
+      "category": "housing",
+      "address": "160 Broad St, Providence, RI 02903",
+      "lat": 41.8175,
+      "lng": -71.4128,
+      "phone": "(401) 521-2255",
+      "website": "https://crossroadsri.org",
+      "hours": "24/7 shelter intake",
+      "languages": ["en", "es", "pt"],
+      "notes": "Emergency shelter, transitional housing, and supportive services."
+    }
+  ]
+}

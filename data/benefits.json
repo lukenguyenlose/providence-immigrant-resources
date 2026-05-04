@@ -1,0 +1,49 @@
+{
+  "lastUpdated": "2026-04-30",
+  "programs": [
+    {
+      "id": "snap",
+      "icon": "food",
+      "name": {
+        "en": "SNAP (Food Stamps)",
+        "es": "SNAP (Cupones de alimentos)",
+        "pt": "SNAP (Cupons de alimentos)",
+        "ht": "SNAP (Tikè manje)"
+      },
+      "summary": {
+        "en": "Monthly money on an EBT card to buy groceries. In RI, SNAP is run by the Department of Human Services (DHS).",
+        "es": "Dinero mensual en una tarjeta EBT para comprar alimentos. En RI, SNAP es administrado por el Departamento de Servicios Humanos (DHS).",
+        "pt": "Dinheiro mensal em um cartão EBT para comprar comida. Em RI, o SNAP é administrado pelo Departamento de Serviços Humanos (DHS).",
+        "ht": "Lajan chak mwa sou yon kat EBT pou achte manje. Nan RI, se Depatman Sèvis Imen (DHS) ki jere SNAP."
+      },
+      "eligibility": {
+        "en": "Based on household income and size. Most working families with low or modest income qualify.",
+        "es": "Según el ingreso y tamaño del hogar. La mayoría de las familias trabajadoras con ingresos bajos o modestos califican.",
+        "pt": "Com base na renda e tamanho do agregado familiar. A maioria das famílias trabalhadoras com renda baixa ou modesta se qualifica.",
+        "ht": "Baze sou revni ak gwosè kay la. Pifò fanmi k ap travay ak revni ki ba oswa modere kalifye."
+      },
+      "immigrationNote": {
+      "en": "Most adult immigrants must have lawful status for 5 or more years. Refugees and asylees may qualify right away.",
+      "es": "La mayoría de los inmigrantes adultos deben tener estatus legal por 5 años o más. Los refugiados y asilados pueden calificar de inmediato.",
+      "pt": "A maioria dos imigrantes adultos precisa ter status legal por 5 anos ou mais. Refugiados e asilados podem se qualificar imediatamente.",
+      "ht": "Pifò imigran adilt dwe gen estati legal pou 5 ane oswa plis. Refijye ak moun ki gen azil ka kalifye imedyatman."
+    },
+      "documents": {
+        "en": "ID, Social Security number (for those applying), proof of address, recent pay stubs or income, and rent/utility bills.",
+        "es": "Identificación, número de Seguro Social (de quienes solicitan), prueba de domicilio, recibos de pago recientes y facturas de alquiler/servicios.",
+        "pt": "Identificação, número de Seguro Social (de quem está solicitando), comprovante de endereço, contracheques recentes e contas de aluguel/serviços.",
+        "ht": "Idantifikasyon, nimewo Sekirite Sosyal (pou moun k ap aplike yo), prèv adrès, dènye pay stub yo, ak fakti lwaye/sèvis."
+      },
+      "howToApply": {
+        "en": "Apply online at healthyrhode.ri.gov, by phone at (855) 697-4347, or in person at any DHS office.",
+        "es": "Solicite en línea en healthyrhode.ri.gov, por teléfono al (855) 697-4347, o en persona en cualquier oficina de DHS.",
+        "pt": "Inscreva-se online em healthyrhode.ri.gov, por telefone (855) 697-4347, ou pessoalmente em qualquer escritório do DHS.",
+        "ht": "Aplike sou entènèt nan healthyrhode.ri.gov, pa telefòn nan (855) 697-4347, oswa an pèsòn nan nenpòt biwo DHS."
+      },
+      "links": [
+        {"label": "RI DHS — SNAP", "url": "https://dhs.ri.gov/programs-and-services/food-assistance-snap"},
+        {"label": "HealthyRhode (apply)", "url": "https://healthyrhode.ri.gov"}
+      ]
+    }
+  ]
+}
