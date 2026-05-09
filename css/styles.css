@@ -12,6 +12,7 @@
   --health: #dc2626;
   --education: #059669;
   --employment: #0891b2;
+  --cultural: #be185d;
   --shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
   --radius: 10px;
   font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -164,6 +165,7 @@ main {
 .resource-card[data-cat="health"]     { border-left-color: var(--health); }
 .resource-card[data-cat="education"]  { border-left-color: var(--education); }
 .resource-card[data-cat="employment"] { border-left-color: var(--employment); }
+.resource-card[data-cat="cultural"]   { border-left-color: var(--cultural); }
 
 .resource-card h3 {
   margin: 0 0 0.2rem;
@@ -192,6 +194,7 @@ main {
 .cat-pill[data-cat="health"]     { background: var(--health); }
 .cat-pill[data-cat="education"]  { background: var(--education); }
 .cat-pill[data-cat="employment"] { background: var(--employment); }
+.cat-pill[data-cat="cultural"]   { background: var(--cultural); }
 
 #map {
   height: 78vh;
@@ -620,4 +623,21 @@ body.modal-open { overflow: hidden; }
 .lang-modal__btn-native {
   font-size: 1.05rem;
   font-weight: 600;
+}
+
+
+/* Unverified resource flag (helps with content review before launch) */
+.unverified-flag {
+  display: inline-block;
+  margin-left: 0.4rem;
+  padding: 0.05rem 0.45rem;
+  font-size: 0.65rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  background: #fff3cd;
+  color: #92400e;
+  border: 1px solid #facc15;
+  border-radius: 999px;
+  vertical-align: middle;
 }

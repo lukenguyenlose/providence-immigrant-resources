@@ -8,6 +8,7 @@ const CATEGORY_COLORS = {
   health:     "#dc2626",
   education:  "#059669",
   employment: "#0891b2",
+  cultural:   "#be185d",
 };
 
 const LANG_KEY = "providence-resources-lang";
@@ -124,7 +125,7 @@ function renderList() {
 
   list.innerHTML = state.filtered.map(r => `
     <article class="resource-card" data-cat="${r.category}" data-id="${r.id}" tabindex="0">
-      <h3>${escape(r.name)}</h3>
+      <h3>${escape(r.name)}${r.verified === false ? ' <span class="unverified-flag" title="Details need verification">unverified</span>' : ''}</h3>
       <div class="meta">
         <span class="cat-pill" data-cat="${r.category}">${t(r.category)}</span>
         ${escape(r.address)}
@@ -149,7 +150,7 @@ function renderList() {
 
 // --- Filters ------------------------------------------------------------
 function buildFilters() {
-  const cats = ["all", "food", "housing", "legal", "health", "education", "employment"];
+  const cats = ["all", "food", "housing", "legal", "health", "education", "employment", "cultural"];
   const wrap = document.getElementById("filters");
   wrap.innerHTML = cats.map(c => `
     <button class="filter-btn ${c === "all" ? "active" : ""}" data-cat="${c}" data-i18n="${c}">${t(c)}</button>
