@@ -16,11 +16,14 @@
         <a href="map/" data-i18n="navMap">Map</a>
         <a href="benefits/" data-i18n="navBenefits">Benefits guide</a>
       </nav>
-      <div class="lang-switch" role="group" aria-label="Language">
-        <button data-lang="en" class="active">EN</button>
-        <button data-lang="es">ES</button>
-        <button data-lang="pt">PT</button>
-        <button data-lang="ht">HT</button>
+      <div class="lang-switch" role="group" aria-labelledby="lang-label">
+        <span id="lang-label" class="lang-label">Language / Idioma / Língua / Lang</span>
+        <div class="lang-switch__buttons">
+          <button data-lang="en" class="active">English</button>
+          <button data-lang="es">Español</button>
+          <button data-lang="pt">Português</button>
+          <button data-lang="ht">Kreyòl Ayisyen</button>
+        </div>
       </div>
     </div>
   </header>
@@ -52,21 +55,63 @@
     <p data-i18n="homeFooter">A volunteer project. Submit corrections or new resources via the GitHub repository.</p>
   </footer>
 
+  <!-- Welcome language picker modal (homepage only) -->
+  <div id="lang-modal" class="lang-modal" role="dialog" aria-modal="true" aria-labelledby="lang-modal-title" hidden>
+    <div class="lang-modal__backdrop"></div>
+    <div class="lang-modal__card" role="document">
+      <h2 id="lang-modal-title" class="lang-modal__title">
+        <span lang="en">Choose your language</span>
+        <span lang="es">Elija su idioma</span>
+        <span lang="pt">Escolha seu idioma</span>
+        <span lang="ht">Chwazi lang ou</span>
+      </h2>
+      <p class="lang-modal__subtitle">
+        <span lang="en">You can change this anytime from the top of the page.</span>
+        <span lang="es">Puede cambiarlo en cualquier momento desde la parte superior de la página.</span>
+        <span lang="pt">Você pode mudar a qualquer momento no topo da página.</span>
+        <span lang="ht">Ou ka chanje l nenpòt lè nan tèt paj la.</span>
+      </p>
+      <div class="lang-modal__buttons">
+        <button class="lang-modal__btn" data-lang="en">
+          <span class="lang-modal__btn-name">English</span>
+          <span class="lang-modal__btn-native">English</span>
+        </button>
+        <button class="lang-modal__btn" data-lang="es">
+          <span class="lang-modal__btn-name">Spanish</span>
+          <span class="lang-modal__btn-native">Español</span>
+        </button>
+        <button class="lang-modal__btn" data-lang="pt">
+          <span class="lang-modal__btn-name">Portuguese</span>
+          <span class="lang-modal__btn-native">Português</span>
+        </button>
+        <button class="lang-modal__btn" data-lang="ht">
+          <span class="lang-modal__btn-name">Haitian Creole</span>
+          <span class="lang-modal__btn-native">Kreyòl Ayisyen</span>
+        </button>
+      </div>
+    </div>
+  </div>
+
   <script src="js/translations.js"></script>
   <script>
     // Tiny standalone i18n for the homepage
     (function () {
       const KEY = "providence-resources-lang";
       const SUPPORTED = ["en", "es", "pt", "ht"];
-      function getLang() {
+
+      function getStoredLang() {
         const stored = localStorage.getItem(KEY);
-        if (stored && SUPPORTED.includes(stored)) return stored;
+        return stored && SUPPORTED.includes(stored) ? stored : null;
+      }
+
+      function defaultLang() {
         const nav = (navigator.language || "en").slice(0, 2);
         return SUPPORTED.includes(nav) ? nav : "en";
       }
-      function setLang(lang) {
+
+      function applyLang(lang, persist) {
         if (!SUPPORTED.includes(lang)) return;
-        localStorage.setItem(KEY, lang);
+        if (persist) localStorage.setItem(KEY, lang);
         document.documentElement.lang = lang;
         const dict = window.TRANSLATIONS[lang] || window.TRANSLATIONS.en;
         document.title = dict.siteTitle || "Providence Immigrant Resources";
@@ -78,11 +123,42 @@
           b.classList.toggle("active", b.dataset.lang === lang);
         });
       }
+
+      function showModal() {
+        const modal = document.getElementById("lang-modal");
+        modal.hidden = false;
+        document.body.classList.add("modal-open");
+        // Move focus into the modal for keyboard/screen-reader users
+        const first = modal.querySelector(".lang-modal__btn");
+        if (first) first.focus();
+      }
+
+      function hideModal() {
+        const modal = document.getElementById("lang-modal");
+        modal.hidden = true;
+        document.body.classList.remove("modal-open");
+      }
+
       document.addEventListener("DOMContentLoaded", () => {
+        // Header switcher
         document.querySelectorAll(".lang-switch button").forEach(b => {
-          b.addEventListener("click", () => setLang(b.dataset.lang));
+          b.addEventListener("click", () => applyLang(b.dataset.lang, true));
         });
-        setLang(getLang());
+
+        // Modal buttons
+        document.querySelectorAll(".lang-modal__btn").forEach(b => {
+          b.addEventListener("click", () => {
+            applyLang(b.dataset.lang, true);
+            hideModal();
+          });
+        });
+
+        // Render the page in the stored or auto-detected language right away
+        const stored = getStoredLang();
+        applyLang(stored || defaultLang(), false);
+
+        // If no choice has been saved yet, prompt the user
+        if (!stored) showModal();
       });
     })();
   </script>
