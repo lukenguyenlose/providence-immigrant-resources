@@ -1,7 +1,7 @@
 // Renders the benefits guide cards from data/benefits.json
 (function () {
   const LANG_KEY = "providence-resources-lang";
-  const SUPPORTED = ["en", "es", "pt", "ht"];
+  const SUPPORTED = ["en", "es", "pt", "ht", "zh"];
   const ICONS = {
     food:   "🥗",
     health: "🩺",

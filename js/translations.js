@@ -227,5 +227,64 @@ window.TRANSLATIONS = {
     benefitsApply: "Kijan pou aplike",
     benefitsImmigration: "Imigrasyon ak estati",
     benefitsDisclaimer: "Rezime sa yo se edikatif, se pa konsèy legal. Pwogram ak règ yo chanje souvan."
+  },
+  zh: {
+    // Site-wide
+    siteTitle: "普罗维登斯移民资源",
+    tagline: "由社区共同整理的食物、住房、法律援助、医疗、教育和就业资源指南。",
+    navHome: "首页",
+    navMap: "地图",
+    navBenefits: "福利指南",
+    lastUpdated: "最近更新",
+
+    // Homepage
+    homeHeroTitle: "欢迎 — 在普罗维登斯找到帮助。",
+    homeHeroSubtitle: "免费的社区资源目录，涵盖食物、住房、医疗、法律援助、教育和福利项目 — 为我们的邻居翻译成多种语言。",
+    homeMapTitle: "资源地图",
+    homeMapBody: "查找您附近的食物银行、收容所、诊所、英语课程和法律援助。可按类别和语言筛选。",
+    homeMapCta: "打开地图 →",
+    homeBenefitsTitle: "福利指南",
+    homeBenefitsBody: "用通俗易懂的语言介绍 SNAP、Medicaid、Medicare、LIHEAP、WIC 等项目，并标注无论移民身份如何均可获得的福利。",
+    homeBenefitsCta: "阅读指南 →",
+    homeUrgentTitle: "现在需要紧急帮助？",
+    homeUrgent211: "免费 24/7 接通罗德岛各项服务（多语言）。",
+    homeUrgentShelter: "Crossroads RI 收容所接收（24/7）。",
+    homeUrgentDV: "Sojourner House 家庭暴力热线（多语言）。",
+    homeFooter: "一个志愿者项目。请通过 GitHub 仓库提交更正或新资源。",
+
+    // Map page
+    mapPageTitle: "资源地图",
+    mapPageTagline: "点击图钉或卡片查看详细信息、营业时间、可用语言和路线。",
+    filterHeading: "按类别筛选",
+    listHeading: "资源",
+    searchPlaceholder: "按名称或社区搜索...",
+    all: "全部",
+    food: "食物银行",
+    housing: "过渡性住房",
+    legal: "法律与移民",
+    health: "医疗",
+    education: "英语与教育",
+    employment: "就业",
+    cultural: "文化与社区",
+    phone: "电话",
+    website: "网站",
+    hours: "营业时间",
+    languagesSpoken: "可用语言",
+    visit: "访问网站",
+    directions: "获取路线",
+    noResults: "没有符合您筛选条件的资源。",
+    disclaimer: "此处信息仅供社区参考。请在前往之前致电确认营业时间和资格条件。",
+
+    // Benefits page
+    benefitsPageTitle: "公共福利通俗指南",
+    benefitsPageTagline: "罗德岛州和联邦主要项目的简要介绍 — 清楚说明哪些福利不论移民身份如何都可获得。",
+    benefitsContents: "项目",
+    benefitsCalloutTitle: "重要：",
+    benefitsCalloutBody: "资格规则会变化。此处的说明仅是起点 — 请始终向项目本身或法律援助机构（Dorcas International、RI Center for Justice、Progreso Latino）核实。",
+    benefitsEligibility: "谁符合资格",
+    benefitsDocs: "需要带什么",
+    benefitsApply: "如何申请",
+    benefitsImmigration: "移民与身份",
+    benefitsDisclaimer: "这些摘要仅供教育用途，不构成法律建议。项目和规则经常变化。"
   }
 };

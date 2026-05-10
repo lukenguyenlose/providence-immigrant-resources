@@ -12,7 +12,7 @@ const CATEGORY_COLORS = {
 };
 
 const LANG_KEY = "providence-resources-lang";
-const SUPPORTED_LANGS = ["en", "es", "pt", "ht"];
+const SUPPORTED_LANGS = ["en", "es", "pt", "ht", "zh"];
 
 const state = {
   resources: [],

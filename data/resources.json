@@ -20,7 +20,8 @@
         "en": "Largest food distribution hub in RI. Find a partner pantry near you on their site.",
         "es": "El centro de distribución de alimentos más grande de RI. Encuentre una despensa asociada cerca de usted en su sitio web.",
         "pt": "Maior centro de distribuição de alimentos de RI. Encontre uma despensa parceira perto de você no site deles.",
-        "ht": "Pi gwo sant distribisyon manje nan RI. Jwenn yon depo manje patnè toupre w sou sit yo a."
+        "ht": "Pi gwo sant distribisyon manje nan RI. Jwenn yon depo manje patnè toupre w sou sit yo a.",
+        "zh": "罗德岛州最大的食物分发中心。请在他们的网站上查找您附近的合作食物储藏点。"
       }
     },
     {
@@ -41,7 +42,8 @@
         "en": "Hot meals, food pantry, and case management.",
         "es": "Comidas calientes, despensa de alimentos y gestión de casos.",
         "pt": "Refeições quentes, despensa de alimentos e acompanhamento de casos.",
-        "ht": "Manje cho, depo manje, ak jesyon ka."
+        "ht": "Manje cho, depo manje, ak jesyon ka.",
+        "zh": "热餐、食物储藏点和个案管理。"
       }
     },
     {
@@ -62,7 +64,8 @@
         "en": "Free lunch, no questions asked.",
         "es": "Almuerzo gratuito, sin preguntas.",
         "pt": "Almoço gratuito, sem perguntas.",
-        "ht": "Manje midi gratis, san poze kesyon."
+        "ht": "Manje midi gratis, san poze kesyon.",
+        "zh": "免费午餐，无需提供任何信息。"
       }
     },
     {
@@ -84,7 +87,8 @@
         "en": "Emergency shelter, transitional housing, and supportive services.",
         "es": "Refugio de emergencia, vivienda de transición y servicios de apoyo.",
         "pt": "Abrigo de emergência, moradia de transição e serviços de apoio.",
-        "ht": "Refij ijans, lojman tranzisyonèl, ak sèvis sipò."
+        "ht": "Refij ijans, lojman tranzisyonèl, ak sèvis sipò.",
+        "zh": "紧急收容、过渡性住房和支持性服务。"
       }
     },
     {
@@ -106,7 +110,8 @@
         "en": "Transitional housing for survivors of domestic violence; multilingual advocates.",
         "es": "Vivienda de transición para sobrevivientes de violencia doméstica; defensores multilingües.",
         "pt": "Moradia de transição para sobreviventes de violência doméstica; defensores multilíngues.",
-        "ht": "Lojman tranzisyonèl pou viktim vyolans domestik; defansè ki pale plizyè lang."
+        "ht": "Lojman tranzisyonèl pou viktim vyolans domestik; defansè ki pale plizyè lang.",
+        "zh": "为家庭暴力幸存者提供过渡性住房；多语言倡导员。"
       }
     },
     {
@@ -131,7 +136,8 @@
         "en": "Immigration legal services, refugee resettlement, ESL, citizenship.",
         "es": "Servicios legales de inmigración, reasentamiento de refugiados, inglés (ESL), ciudadanía.",
         "pt": "Serviços jurídicos de imigração, reassentamento de refugiados, aulas de inglês (ESL), cidadania.",
-        "ht": "Sèvis legal imigrasyon, reyenstalasyon refijye, klas anglè (ESL), sitwayènte."
+        "ht": "Sèvis legal imigrasyon, reyenstalasyon refijye, klas anglè (ESL), sitwayènte.",
+        "zh": "移民法律服务、难民安置、英语课程（ESL）、入籍。"
       }
     },
     {
@@ -152,7 +158,8 @@
         "en": "Immigration help, ESL, workforce, family services.",
         "es": "Ayuda con inmigración, clases de inglés (ESL), empleo y servicios familiares.",
         "pt": "Ajuda com imigração, aulas de inglês (ESL), trabalho e serviços familiares.",
-        "ht": "Èd pou imigrasyon, klas anglè (ESL), travay, ak sèvis fanmi."
+        "ht": "Èd pou imigrasyon, klas anglè (ESL), travay, ak sèvis fanmi.",
+        "zh": "移民帮助、英语课程（ESL）、就业和家庭服务。"
       }
     },
     {
@@ -173,7 +180,8 @@
         "en": "Free civil legal aid for low-income Rhode Islanders.",
         "es": "Ayuda legal civil gratuita para residentes de Rhode Island de bajos ingresos.",
         "pt": "Auxílio jurídico civil gratuito para moradores de Rhode Island de baixa renda.",
-        "ht": "Èd legal sivil gratis pou rezidan Rhode Island ki gen revni ki ba."
+        "ht": "Èd legal sivil gratis pou rezidan Rhode Island ki gen revni ki ba.",
+        "zh": "为低收入罗德岛居民提供免费民事法律援助。"
       }
     },
     {
@@ -194,7 +202,8 @@
         "en": "Free primary care for uninsured adults; multilingual staff.",
         "es": "Atención primaria gratuita para adultos sin seguro; personal multilingüe.",
         "pt": "Atenção primária gratuita para adultos sem seguro; equipe multilíngue.",
-        "ht": "Swen prensipal gratis pou granmoun ki pa gen asirans; staf ki pale plizyè lang."
+        "ht": "Swen prensipal gratis pou granmoun ki pa gen asirans; staf ki pale plizyè lang.",
+        "zh": "为无保险成人提供免费基本医疗；多语言员工。"
       }
     },
     {
@@ -217,7 +226,8 @@
         "en": "Sliding-scale medical, dental, behavioral health. Accepts uninsured.",
         "es": "Servicios médicos, dentales y de salud mental con tarifa según ingresos. Acepta a personas sin seguro.",
         "pt": "Serviços médicos, odontológicos e de saúde mental com tarifa proporcional à renda. Aceita pessoas sem seguro.",
-        "ht": "Sèvis medikal, dantè, ak sante mantal ak pri ki baze sou revni. Aksepte moun ki pa gen asirans."
+        "ht": "Sèvis medikal, dantè, ak sante mantal ak pri ki baze sou revni. Aksepte moun ki pa gen asirans.",
+        "zh": "按收入收费的医疗、牙科和心理健康服务。接受无保险者。"
       }
     },
     {
@@ -240,7 +250,8 @@
         "en": "ESL, citizenship prep, GED, workforce training, childcare.",
         "es": "Clases de inglés (ESL), preparación para la ciudadanía, GED, capacitación laboral y cuidado infantil.",
         "pt": "Aulas de inglês (ESL), preparação para cidadania, GED, capacitação profissional e cuidado infantil.",
-        "ht": "Klas anglè (ESL), preparasyon pou sitwayènte, GED, fòmasyon travay, ak gadri."
+        "ht": "Klas anglè (ESL), preparasyon pou sitwayènte, GED, fòmasyon travay, ak gadri.",
+        "zh": "英语课程（ESL）、入籍准备、GED、就业培训和儿童托管。"
       }
     },
     {
@@ -262,7 +273,8 @@
         "en": "Free ESL, citizenship classes, and computer literacy.",
         "es": "Clases gratuitas de inglés (ESL), ciudadanía y alfabetización digital.",
         "pt": "Aulas gratuitas de inglês (ESL), cidadania e alfabetização digital.",
-        "ht": "Klas gratis anglè (ESL), sitwayènte, ak alfabetizasyon dijital."
+        "ht": "Klas gratis anglè (ESL), sitwayènte, ak alfabetizasyon dijital.",
+        "zh": "免费英语课程（ESL）、入籍课程和电脑入门。"
       }
     },
     {
@@ -285,7 +297,8 @@
         "en": "Free ESL, civics, and digital literacy at the majority of public libraries.",
         "es": "Clases gratuitas de inglés (ESL), civismo y alfabetización digital en la mayoría de las bibliotecas públicas.",
         "pt": "Aulas gratuitas de inglês (ESL), civismo e alfabetização digital na maioria das bibliotecas públicas.",
-        "ht": "Klas gratis anglè (ESL), edikasyon sivik, ak alfabetizasyon dijital nan pifò bibliyotèk piblik."
+        "ht": "Klas gratis anglè (ESL), edikasyon sivik, ak alfabetizasyon dijital nan pifò bibliyotèk piblik.",
+        "zh": "在大多数公共图书馆提供免费英语（ESL）、公民教育和数字素养课程。"
       }
     },
     {
@@ -306,7 +319,8 @@
         "en": "Job search help, training referrals, unemployment assistance.",
         "es": "Ayuda para buscar trabajo, referencias para capacitación y asistencia con el desempleo.",
         "pt": "Ajuda para buscar emprego, encaminhamentos para capacitação e auxílio-desemprego.",
-        "ht": "Èd pou chèche travay, referans pou fòmasyon, èd pou chomaj."
+        "ht": "Èd pou chèche travay, referans pou fòmasyon, èd pou chomaj.",
+        "zh": "求职帮助、培训转介、失业援助。"
       }
     },
     {
@@ -327,7 +341,8 @@
         "en": "Worker rights, wage theft help, leadership training for immigrant workers.",
         "es": "Derechos laborales, ayuda con robo de salarios y capacitación de liderazgo para trabajadores inmigrantes.",
         "pt": "Direitos trabalhistas, ajuda com roubo salarial e capacitação de liderança para trabalhadores imigrantes.",
-        "ht": "Dwa travayè, èd kont vòl salè, fòmasyon lidèchip pou travayè imigran."
+        "ht": "Dwa travayè, èd kont vòl salè, fòmasyon lidèchip pou travayè imigran.",
+        "zh": "为移民工人提供劳工权益保护、欠薪追讨帮助和领导力培训。"
       }
     },
     {
@@ -348,7 +363,8 @@
         "en": "Senior center with staff dedicated to helping seniors understand healthcare and government programs.",
         "es": "Centro para personas mayores con personal dedicado a ayudarlas a entender la atención médica y los programas gubernamentales.",
         "pt": "Centro para idosos com equipe dedicada a ajudá-los a entender a saúde e os programas do governo.",
-        "ht": "Sant pou granmoun aje ak staf ki dedye pou ede granmoun aje yo konprann swen sante ak pwogram gouvènman."
+        "ht": "Sant pou granmoun aje ak staf ki dedye pou ede granmoun aje yo konprann swen sante ak pwogram gouvènman.",
+        "zh": "老年人中心，员工专门帮助老年人理解医疗保健和政府项目。"
       }
     },
     {
@@ -369,7 +385,8 @@
         "en": "Hot meals, clothing closet, and small transitional housing building. Faith-based but services open to all.",
         "es": "Comidas calientes, ropería y un edificio pequeño de vivienda de transición. De base religiosa, pero los servicios están abiertos a todos.",
         "pt": "Refeições quentes, banco de roupas e um pequeno prédio de moradia de transição. De base religiosa, mas os serviços estão abertos a todos.",
-        "ht": "Manje cho, plak rad, ak yon ti bilding lojman tranzisyonèl. Baze sou lafwa men sèvis yo louvri pou tout moun."
+        "ht": "Manje cho, plak rad, ak yon ti bilding lojman tranzisyonèl. Baze sou lafwa men sèvis yo louvri pou tout moun.",
+        "zh": "热餐、衣物分发和小型过渡性住房楼。基于信仰但服务面向所有人。"
       }
     },
     {
@@ -390,7 +407,8 @@
         "en": "Outreach to people experiencing homelessness; transitional housing pipelines. Serves the whole state of Rhode Island.",
         "es": "Servicios de acercamiento a personas sin hogar; vías hacia vivienda de transición. Atiende a todo el estado de Rhode Island.",
         "pt": "Serviços de divulgação para pessoas em situação de rua; encaminhamento para moradia de transição. Atende todo o estado de Rhode Island.",
-        "ht": "Sèvis pou moun ki san kay; chemen pou lojman tranzisyonèl. Sèvi tout eta Rhode Island."
+        "ht": "Sèvis pou moun ki san kay; chemen pou lojman tranzisyonèl. Sèvi tout eta Rhode Island.",
+        "zh": "为无家可归者提供外展服务；过渡性住房通道。服务整个罗德岛州。"
       }
     },
     {
@@ -411,7 +429,8 @@
         "en": "Reentry housing and support for people leaving incarceration; transitional support network for adults rebuilding.",
         "es": "Vivienda de reingreso y apoyo para personas que salen de la cárcel; red de apoyo de transición para adultos que se reconstruyen.",
         "pt": "Moradia de reinserção e apoio para pessoas que estão saindo do cárcere; rede de apoio de transição para adultos reconstruindo a vida.",
-        "ht": "Lojman ak sipò pou moun ki ap soti nan prizon; rezo sipò tranzisyonèl pou adilt k ap rekonstwi lavi yo."
+        "ht": "Lojman ak sipò pou moun ki ap soti nan prizon; rezo sipò tranzisyonèl pou adilt k ap rekonstwi lavi yo.",
+        "zh": "为离开监狱的人提供再融入住房和支持；为重建生活的成人提供过渡性支持网络。"
       }
     },
     {
@@ -432,7 +451,8 @@
         "en": "Transitional housing for men and women on separated floors; intake through Amos House.",
         "es": "Vivienda de transición para hombres y mujeres en pisos separados; admisión a través de Amos House.",
         "pt": "Moradia de transição para homens e mulheres em andares separados; entrada pela Amos House.",
-        "ht": "Lojman tranzisyonèl pou gason ak fanm sou etaj separe; antre atravè Amos House."
+        "ht": "Lojman tranzisyonèl pou gason ak fanm sou etaj separe; antre atravè Amos House.",
+        "zh": "为男性和女性提供分层的过渡性住房；通过 Amos House 申请入住。"
       }
     },
     {
@@ -454,7 +474,8 @@
         "en": "Free civil legal aid: housing, family, public benefits. Statewide intake line. Call for supported languages.",
         "es": "Ayuda legal civil gratuita: vivienda, familia, beneficios públicos. Línea de admisión estatal. Llame para conocer los idiomas disponibles.",
         "pt": "Auxílio jurídico civil gratuito: habitação, família, benefícios públicos. Linha estadual de atendimento. Ligue para saber os idiomas atendidos.",
-        "ht": "Èd legal sivil gratis: lojman, fanmi, benefis piblik. Liy admisyon pou tout eta a. Rele pou konnen ki lang yo sipòte."
+        "ht": "Èd legal sivil gratis: lojman, fanmi, benefis piblik. Liy admisyon pou tout eta a. Rele pou konnen ki lang yo sipòte.",
+        "zh": "免费民事法律援助：住房、家庭、公共福利。全州接收热线。请来电询问支持的语言。"
       }
     },
     {
@@ -474,7 +495,8 @@
         "en": "Volunteer lawyer program. Volunteer attorney referrals for low-income RI residents. Some attorneys take immigration matters.",
         "es": "Programa de abogados voluntarios. Referencias a abogados voluntarios para residentes de RI de bajos ingresos. Algunos abogados aceptan casos de inmigración.",
         "pt": "Programa de advogados voluntários. Encaminhamentos para advogados voluntários para moradores de RI de baixa renda. Alguns advogados aceitam casos de imigração.",
-        "ht": "Pwogram avoka volontè. Referans avoka volontè pou rezidan RI ki gen revni ki ba. Kèk avoka pran ka imigrasyon."
+        "ht": "Pwogram avoka volontè. Referans avoka volontè pou rezidan RI ki gen revni ki ba. Kèk avoka pran ka imigrasyon.",
+        "zh": "志愿律师项目。为低收入罗德岛居民转介志愿律师。部分律师承接移民案件。"
       }
     },
     {
@@ -495,7 +517,8 @@
         "en": "Civil rights advocacy and Know Your Rights resources. Not a direct-service immigration provider, but useful for rights questions.",
         "es": "Defensa de derechos civiles y recursos para conocer sus derechos. No es un proveedor de servicios directos de inmigración, pero útil para preguntas sobre derechos.",
         "pt": "Defesa de direitos civis e recursos sobre 'conheça seus direitos'. Não presta serviços diretos de imigração, mas é útil para questões de direitos.",
-        "ht": "Defans dwa sivil ak resous 'Konnen Dwa Ou'. Se pa yon sèvis dirèk pou imigrasyon, men li itil pou kesyon sou dwa."
+        "ht": "Defans dwa sivil ak resous 'Konnen Dwa Ou'. Se pa yon sèvis dirèk pou imigrasyon, men li itil pou kesyon sou dwa.",
+        "zh": "公民权利倡导和『了解您的权利』资源。不直接提供移民服务，但对权利相关问题很有帮助。"
       }
     },
     {
@@ -517,7 +540,8 @@
         "en": "Behavioral health, counseling, and crisis services for adults and children. Sliding scale.",
         "es": "Salud mental, consejería y servicios de crisis para adultos y niños. Tarifa según ingresos.",
         "pt": "Saúde mental, aconselhamento e serviços de crise para adultos e crianças. Tarifa proporcional à renda.",
-        "ht": "Sante mantal, konsèy, ak sèvis kriz pou adilt ak timoun. Pri ki baze sou revni."
+        "ht": "Sante mantal, konsèy, ak sèvis kriz pou adilt ak timoun. Pri ki baze sou revni.",
+        "zh": "为成人和儿童提供心理健康、咨询和危机服务。按收入收费。"
       }
     },
     {
@@ -538,7 +562,8 @@
         "en": "Cultural center for the Cape Verdean diaspora: exhibits, language, community events. Pawtucket-based but serves Providence community.",
         "es": "Centro cultural para la diáspora caboverdiana: exhibiciones, idioma y eventos comunitarios. Sede en Pawtucket pero atiende a la comunidad de Providence.",
         "pt": "Centro cultural para a diáspora cabo-verdiana: exposições, idioma e eventos comunitários. Sede em Pawtucket, mas atende a comunidade de Providence.",
-        "ht": "Sant kiltirèl pou dyaspora Kapvèdyen: ekspozisyon, lang, evènman kominotè. Baze nan Pawtucket men sèvi kominote Providence la."
+        "ht": "Sant kiltirèl pou dyaspora Kapvèdyen: ekspozisyon, lang, evènman kominotè. Baze nan Pawtucket men sèvi kominote Providence la.",
+        "zh": "佛得角侨民的文化中心：展览、语言、社区活动。位于波塔基特，但服务普罗维登斯社区。"
       }
     },
     {
@@ -561,7 +586,8 @@
         "en": "Immigrant-specific support for refugees: case management, ESL, citizenship, youth programs. Multilingual staff but confirm your language with a phone call.",
         "es": "Apoyo específico para inmigrantes refugiados: gestión de casos, inglés (ESL), ciudadanía y programas para jóvenes. Personal multilingüe, pero confirme su idioma con una llamada.",
         "pt": "Apoio específico para imigrantes refugiados: acompanhamento de casos, inglês (ESL), cidadania e programas juvenis. Equipe multilíngue, mas confirme seu idioma por telefone.",
-        "ht": "Sipò espesifik pou imigran refijye: jesyon ka, klas anglè (ESL), sitwayènte, pwogram pou jèn. Staf pale plizyè lang men konfime lang ou pa telefòn."
+        "ht": "Sipò espesifik pou imigran refijye: jesyon ka, klas anglè (ESL), sitwayènte, pwogram pou jèn. Staf pale plizyè lang men konfime lang ou pa telefòn.",
+        "zh": "专为难民提供的移民支持：个案管理、英语课程（ESL）、入籍、青少年项目。员工说多种语言，但请先打电话确认您的语言。"
       }
     },
     {
@@ -584,7 +610,8 @@
         "en": "Coalition of African immigrant communities; cultural events, advocacy, and youth programs. ⚠️ Confirm current office address.",
         "es": "Coalición de comunidades inmigrantes africanas; eventos culturales, defensa y programas para jóvenes. ⚠️ Confirme la dirección actual de la oficina.",
         "pt": "Coalizão de comunidades imigrantes africanas; eventos culturais, defesa e programas juvenis. ⚠️ Confirme o endereço atual do escritório.",
-        "ht": "Kowalisyon kominote imigran Afriken; evènman kiltirèl, defans, ak pwogram pou jèn. ⚠️ Konfime adrès biwo aktyèl la."
+        "ht": "Kowalisyon kominote imigran Afriken; evènman kiltirèl, defans, ak pwogram pou jèn. ⚠️ Konfime adrès biwo aktyèl la.",
+        "zh": "非洲移民社区联盟；文化活动、倡导和青少年项目。⚠️ 请确认当前办公地址。"
       }
     },
     {
@@ -604,7 +631,8 @@
         "en": "First U.S. museum dedicated to Asian American & Pacific Islander history. Operated by Cultural Society (CSEBRI). Exhibits include Chinese, Cambodian, and Vietnamese American journeys. Translations into AAPI ethnic languages in development.",
         "es": "Primer museo de EE.UU. dedicado a la historia asiático-americana y de las islas del Pacífico. Operado por Cultural Society (CSEBRI). Las exhibiciones incluyen las trayectorias chinas, camboyanas y vietnamitas-americanas. Traducciones a idiomas étnicos AAPI en desarrollo.",
         "pt": "Primeiro museu dos EUA dedicado à história asiático-americana e das ilhas do Pacífico. Operado pela Cultural Society (CSEBRI). Exposições incluem as jornadas chinesa, cambojana e vietnamita-americana. Traduções para idiomas étnicos AAPI em desenvolvimento.",
-        "ht": "Premye mize Ozetazini ki dedye a istwa Asiatik Ameriken ak Zile Pasifik. Opere pa Cultural Society (CSEBRI). Ekspozisyon yo enkli vwayaj Chinwa, Kanbojyen, ak Vyetnamyen Ameriken yo. Tradiksyon nan lang etnik AAPI ap devlope."
+        "ht": "Premye mize Ozetazini ki dedye a istwa Asiatik Ameriken ak Zile Pasifik. Opere pa Cultural Society (CSEBRI). Ekspozisyon yo enkli vwayaj Chinwa, Kanbojyen, ak Vyetnamyen Ameriken yo. Tradiksyon nan lang etnik AAPI ap devlope.",
+        "zh": "美国第一家专门致力于亚裔美国人和太平洋岛民历史的博物馆。由 Cultural Society（CSEBRI）运营。展览包括华裔、柬裔和越裔美国人的历程。AAPI 各族裔语言翻译正在开发中。"
       }
     },
     {
@@ -629,7 +657,8 @@
         "en": "Sliding-scale primary care and behavioral health. Dental at separate Woonsocket location (25 John A. Cummings Way).",
         "es": "Atención primaria y salud mental con tarifa según ingresos. El servicio dental está en otro local de Woonsocket (25 John A. Cummings Way).",
         "pt": "Atenção primária e saúde mental com tarifa proporcional à renda. O serviço odontológico fica em outro local em Woonsocket (25 John A. Cummings Way).",
-        "ht": "Swen prensipal ak sante mantal ak pri ki baze sou revni. Sèvis dantè nan yon lòt kote nan Woonsocket (25 John A. Cummings Way)."
+        "ht": "Swen prensipal ak sante mantal ak pri ki baze sou revni. Sèvis dantè nan yon lòt kote nan Woonsocket (25 John A. Cummings Way).",
+        "zh": "按收入收费的基本医疗和心理健康。牙科服务在伍恩索基特的另一处地点（25 John A. Cummings Way）。"
       }
     },
     {
@@ -654,7 +683,8 @@
         "en": "Sliding-scale dental clinic. Medical/behavioral health at the separate Clinton Street location.",
         "es": "Clínica dental con tarifa según ingresos. La atención médica y de salud mental está en otro local en Clinton Street.",
         "pt": "Clínica odontológica com tarifa proporcional à renda. Atenção médica e de saúde mental em outro local na Clinton Street.",
-        "ht": "Klinik dantè ak pri ki baze sou revni. Swen medikal ak sante mantal nan lòt kote a sou Clinton Street."
+        "ht": "Klinik dantè ak pri ki baze sou revni. Swen medikal ak sante mantal nan lòt kote a sou Clinton Street.",
+        "zh": "按收入收费的牙科诊所。医疗和心理健康服务在 Clinton Street 的另一处地点。"
       }
     },
     {
@@ -679,7 +709,8 @@
         "en": "Sliding-scale primary care and behavioral health. Dental at separate West Warwick location (5 Washington Street).",
         "es": "Atención primaria y salud mental con tarifa según ingresos. El servicio dental está en otro local de West Warwick (5 Washington Street).",
         "pt": "Atenção primária e saúde mental com tarifa proporcional à renda. O serviço odontológico fica em outro local em West Warwick (5 Washington Street).",
-        "ht": "Swen prensipal ak sante mantal ak pri ki baze sou revni. Sèvis dantè nan yon lòt kote nan West Warwick (5 Washington Street)."
+        "ht": "Swen prensipal ak sante mantal ak pri ki baze sou revni. Sèvis dantè nan yon lòt kote nan West Warwick (5 Washington Street).",
+        "zh": "按收入收费的基本医疗和心理健康。牙科服务在西沃里克的另一处地点（5 Washington Street）。"
       }
     },
     {
@@ -704,7 +735,8 @@
         "en": "Sliding-scale dental clinic. Medical/behavioral health at the separate Providence Street location.",
         "es": "Clínica dental con tarifa según ingresos. La atención médica y de salud mental está en otro local en Providence Street.",
         "pt": "Clínica odontológica com tarifa proporcional à renda. Atenção médica e de saúde mental em outro local na Providence Street.",
-        "ht": "Klinik dantè ak pri ki baze sou revni. Swen medikal ak sante mantal nan lòt kote a sou Providence Street."
+        "ht": "Klinik dantè ak pri ki baze sou revni. Swen medikal ak sante mantal nan lòt kote a sou Providence Street.",
+        "zh": "按收入收费的牙科诊所。医疗和心理健康服务在 Providence Street 的另一处地点。"
       }
     },
     {
@@ -729,7 +761,8 @@
         "en": "South County medical, behavioral health, AND dental in one location. South County Pediatrics is at the separate Narragansett site.",
         "es": "Servicios médicos, de salud mental Y dentales del sur del condado en un solo lugar. Pediatría del sur del condado está en el local separado de Narragansett.",
         "pt": "Serviços médicos, de saúde mental E odontológicos do South County em um só local. A pediatria do South County fica no local separado em Narragansett.",
-        "ht": "Sèvis medikal, sante mantal, AK dantè South County nan yon sèl kote. Pedyatri South County nan lòt kote a nan Narragansett."
+        "ht": "Sèvis medikal, sante mantal, AK dantè South County nan yon sèl kote. Pedyatri South County nan lòt kote a nan Narragansett.",
+        "zh": "南郡医疗、心理健康和牙科服务集中在一处。南郡儿科在纳拉甘西特的另一处地点。"
       }
     },
     {
@@ -754,7 +787,8 @@
         "en": "South County Pediatrics — medical and behavioral health for children. Adults and dental at the Wakefield location.",
         "es": "Pediatría del sur del condado: atención médica y de salud mental para niños. Servicios para adultos y dentales en el local de Wakefield.",
         "pt": "Pediatria do South County — atenção médica e de saúde mental para crianças. Adultos e atendimento odontológico no local de Wakefield.",
-        "ht": "Pedyatri South County — swen medikal ak sante mantal pou timoun. Adilt ak sèvis dantè nan kote Wakefield la."
+        "ht": "Pedyatri South County — swen medikal ak sante mantal pou timoun. Adilt ak sèvis dantè nan kote Wakefield la.",
+        "zh": "南郡儿科 — 为儿童提供医疗和心理健康服务。成人服务和牙科在韦克菲尔德地点。"
       }
     },
     {
@@ -775,7 +809,8 @@
         "en": "Free comprehensive medical care for uninsured RI adults: primary care, dental, behavioral health, gynecology, vision, prescriptions, labs, specialty referrals. Bilingual EN/ES throughout the org. Founded 1998.",
         "es": "Atención médica gratuita e integral para adultos sin seguro en RI: atención primaria, dental, salud mental, ginecología, visión, recetas, laboratorios y referencias a especialistas. Bilingüe inglés/español en toda la organización. Fundada en 1998.",
         "pt": "Atenção médica gratuita e integral para adultos sem seguro em RI: atenção primária, odontologia, saúde mental, ginecologia, visão, receitas, laboratórios e encaminhamentos a especialistas. Bilíngue inglês/espanhol em toda a organização. Fundada em 1998.",
-        "ht": "Swen medikal konplè gratis pou granmoun nan RI ki pa gen asirans: swen prensipal, dantè, sante mantal, ginekoloji, vizyon, preskripsyon, laboratwa, ak referans pou espesyalis. Bileng anglè/espayòl nan tout òganizasyon an. Fonde nan 1998."
+        "ht": "Swen medikal konplè gratis pou granmoun nan RI ki pa gen asirans: swen prensipal, dantè, sante mantal, ginekoloji, vizyon, preskripsyon, laboratwa, ak referans pou espesyalis. Bileng anglè/espayòl nan tout òganizasyon an. Fonde nan 1998.",
+        "zh": "为罗德岛州无保险成人提供全面免费医疗：基本医疗、牙科、心理健康、妇科、视力、处方、化验、专科转介。整个机构英西双语。1998 年成立。"
       }
     }
   ]

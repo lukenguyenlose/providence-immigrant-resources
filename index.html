@@ -17,12 +17,13 @@
         <a href="benefits/" data-i18n="navBenefits">Benefits guide</a>
       </nav>
       <div class="lang-switch" role="group" aria-labelledby="lang-label">
-        <span id="lang-label" class="lang-label">Language / Idioma / Língua / Lang</span>
+        <span id="lang-label" class="lang-label">Language / Idioma / Língua / Lang / 语言</span>
         <div class="lang-switch__buttons">
           <button data-lang="en" class="active">English</button>
           <button data-lang="es">Español</button>
           <button data-lang="pt">Português</button>
           <button data-lang="ht">Kreyòl Ayisyen</button>
+          <button data-lang="zh">中文</button>
         </div>
       </div>
     </div>
@@ -64,12 +65,14 @@
         <span lang="es">Elija su idioma</span>
         <span lang="pt">Escolha seu idioma</span>
         <span lang="ht">Chwazi lang ou</span>
+        <span lang="zh">选择您的语言</span>
       </h2>
       <p class="lang-modal__subtitle">
         <span lang="en">You can change this anytime from the top of the page.</span>
         <span lang="es">Puede cambiarlo en cualquier momento desde la parte superior de la página.</span>
         <span lang="pt">Você pode mudar a qualquer momento no topo da página.</span>
         <span lang="ht">Ou ka chanje l nenpòt lè nan tèt paj la.</span>
+        <span lang="zh">您可以随时在页面顶部更改语言。</span>
       </p>
       <div class="lang-modal__buttons">
         <button class="lang-modal__btn" data-lang="en">
@@ -88,6 +91,10 @@
           <span class="lang-modal__btn-name">Haitian Creole</span>
           <span class="lang-modal__btn-native">Kreyòl Ayisyen</span>
         </button>
+        <button class="lang-modal__btn" data-lang="zh">
+          <span class="lang-modal__btn-name">Chinese</span>
+          <span class="lang-modal__btn-native">中文</span>
+        </button>
       </div>
     </div>
   </div>
@@ -97,7 +104,7 @@
     // Tiny standalone i18n for the homepage
     (function () {
       const KEY = "providence-resources-lang";
-      const SUPPORTED = ["en", "es", "pt", "ht"];
+      const SUPPORTED = ["en", "es", "pt", "ht", "zh"];
 
       function getStoredLang() {
         const stored = localStorage.getItem(KEY);
