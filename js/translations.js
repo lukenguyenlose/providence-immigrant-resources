@@ -58,7 +58,7 @@ window.TRANSLATIONS = {
     benefitsDocs: "What to bring",
     benefitsApply: "How to apply",
     benefitsImmigration: "Immigration & status",
-    benefitsDisclaimer: "These summaries are educational, not legal advice. Programs and rules change frequently."
+    benefitsDisclaimer: "These summaries are educational, not legal advice. Programs and rules change frequently.",
 
     // Media page
     navMedia: "Media",
@@ -127,7 +127,7 @@ window.TRANSLATIONS = {
     benefitsDocs: "Qué traer",
     benefitsApply: "Cómo solicitar",
     benefitsImmigration: "Inmigración y estatus",
-    benefitsDisclaimer: "Estos resúmenes son educativos, no asesoría legal. Los programas y reglas cambian con frecuencia."
+    benefitsDisclaimer: "Estos resúmenes son educativos, no asesoría legal. Los programas y reglas cambian con frecuencia.",
 
     // Media page
     navMedia: "Medios",
@@ -196,7 +196,7 @@ window.TRANSLATIONS = {
     benefitsDocs: "O que levar",
     benefitsApply: "Como se inscrever",
     benefitsImmigration: "Imigração e status",
-    benefitsDisclaimer: "Estes resumos são educacionais, não aconselhamento jurídico. Programas e regras mudam com frequência."
+    benefitsDisclaimer: "Estes resumos são educacionais, não aconselhamento jurídico. Programas e regras mudam com frequência.",
 
     // Media page
     navMedia: "Mídia",
@@ -265,7 +265,7 @@ window.TRANSLATIONS = {
     benefitsDocs: "Sa pou pote",
     benefitsApply: "Kijan pou aplike",
     benefitsImmigration: "Imigrasyon ak estati",
-    benefitsDisclaimer: "Rezime sa yo se edikatif, se pa konsèy legal. Pwogram ak règ yo chanje souvan."
+    benefitsDisclaimer: "Rezime sa yo se edikatif, se pa konsèy legal. Pwogram ak règ yo chanje souvan.",
 
     // Media page
     navMedia: "Medya",
@@ -337,7 +337,7 @@ window.TRANSLATIONS = {
     benefitsDocs: "需要带什么",
     benefitsApply: "如何申请",
     benefitsImmigration: "移民与身份",
-    benefitsDisclaimer: "这些摘要仅供教育用途，不构成法律建议。项目和规则经常变化。"
+    benefitsDisclaimer: "这些摘要仅供教育用途，不构成法律建议。项目和规则经常变化。",
 
     // Media page
     navMedia: "媒体",
