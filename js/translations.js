@@ -59,6 +59,19 @@ window.TRANSLATIONS = {
     benefitsApply: "How to apply",
     benefitsImmigration: "Immigration & status",
     benefitsDisclaimer: "These summaries are educational, not legal advice. Programs and rules change frequently."
+
+    // Media page
+    navMedia: "Media",
+    homeMediaTitle: "Media representation",
+    homeMediaBody: "Films that reflect immigrant, refugee, and diaspora experiences — for every age, in every language we support.",
+    homeMediaCta: "Browse films →",
+    mediaPageTitle: "Media representation",
+    mediaPageTagline: "Films that reflect immigrant, refugee, and diaspora experiences — for every age. Adult selections highlight systemic injustice.",
+    mediaContents: "Categories",
+    mediaCalloutTitle: "A note for parents:",
+    mediaCalloutBody: "Age suggestions are starting points, not rules — you know your child best. Most of these films are widely available on streaming services or at the Providence Public Library.",
+    mediaInjusticeHeading: "Systemic injustice highlighted",
+    mediaDisclaimer: "Inclusion here is not endorsement of every detail. We chose films that center voices and experiences too often left out of mainstream media."
   },
 
   es: {
@@ -115,6 +128,19 @@ window.TRANSLATIONS = {
     benefitsApply: "Cómo solicitar",
     benefitsImmigration: "Inmigración y estatus",
     benefitsDisclaimer: "Estos resúmenes son educativos, no asesoría legal. Los programas y reglas cambian con frecuencia."
+
+    // Media page
+    navMedia: "Medios",
+    homeMediaTitle: "Representación en los medios",
+    homeMediaBody: "Películas que reflejan experiencias de inmigrantes, refugiados y diásporas — para todas las edades y en cada idioma que apoyamos.",
+    homeMediaCta: "Explorar películas →",
+    mediaPageTitle: "Representación en los medios",
+    mediaPageTagline: "Películas que reflejan experiencias de inmigrantes, refugiados y diásporas — para todas las edades. Las selecciones para adultos destacan la injusticia sistémica.",
+    mediaContents: "Categorías",
+    mediaCalloutTitle: "Nota para padres:",
+    mediaCalloutBody: "Las sugerencias de edad son un punto de partida, no reglas — usted conoce mejor a su hijo. La mayoría de estas películas están disponibles en servicios de streaming o en la Biblioteca Pública de Providence.",
+    mediaInjusticeHeading: "Injusticia sistémica resaltada",
+    mediaDisclaimer: "La inclusión aquí no es respaldo de todos los detalles. Elegimos películas que centran voces y experiencias muchas veces ignoradas por los medios mayoritarios."
   },
 
   pt: {
@@ -171,6 +197,19 @@ window.TRANSLATIONS = {
     benefitsApply: "Como se inscrever",
     benefitsImmigration: "Imigração e status",
     benefitsDisclaimer: "Estes resumos são educacionais, não aconselhamento jurídico. Programas e regras mudam com frequência."
+
+    // Media page
+    navMedia: "Mídia",
+    homeMediaTitle: "Representação na mídia",
+    homeMediaBody: "Filmes que refletem experiências de imigrantes, refugiados e diásporas — para todas as idades, em todos os idiomas que apoiamos.",
+    homeMediaCta: "Explorar filmes →",
+    mediaPageTitle: "Representação na mídia",
+    mediaPageTagline: "Filmes que refletem experiências de imigrantes, refugiados e diásporas — para todas as idades. As seleções para adultos destacam a injustiça sistêmica.",
+    mediaContents: "Categorias",
+    mediaCalloutTitle: "Nota aos pais:",
+    mediaCalloutBody: "As sugestões de idade são pontos de partida, não regras — você conhece seu filho melhor. A maioria desses filmes está disponível em serviços de streaming ou na Biblioteca Pública de Providence.",
+    mediaInjusticeHeading: "Injustiça sistêmica em destaque",
+    mediaDisclaimer: "A inclusão aqui não é endosso de cada detalhe. Escolhemos filmes que centralizam vozes e experiências frequentemente esquecidas pela mídia dominante."
   },
 
   ht: {
@@ -227,6 +266,19 @@ window.TRANSLATIONS = {
     benefitsApply: "Kijan pou aplike",
     benefitsImmigration: "Imigrasyon ak estati",
     benefitsDisclaimer: "Rezime sa yo se edikatif, se pa konsèy legal. Pwogram ak règ yo chanje souvan."
+
+    // Media page
+    navMedia: "Medya",
+    homeMediaTitle: "Reprezantasyon nan medya",
+    homeMediaBody: "Fim ki reflete eksperyans imigran, refijye, ak dyaspora — pou tout laj, nan tout lang nou sipòte.",
+    homeMediaCta: "Gade fim yo →",
+    mediaPageTitle: "Reprezantasyon nan medya",
+    mediaPageTagline: "Fim ki reflete eksperyans imigran, refijye, ak dyaspora — pou tout laj. Seleksyon pou granmoun yo mete aksan sou enjistis sistemik.",
+    mediaContents: "Kategori",
+    mediaCalloutTitle: "Yon nòt pou paran:",
+    mediaCalloutBody: "Sigjesyon laj se yon pwen depa, se pa règ — ou konnen pitit ou pi byen. Pifò nan fim sa yo disponib sou sèvis streaming oswa nan Bibliyotèk Piblik Providence.",
+    mediaInjusticeHeading: "Enjistis sistemik mete aklè",
+    mediaDisclaimer: "Lefèt ke yon fim la pa vle di nou apwouve chak detay. Nou chwazi fim ki mete vwa ak eksperyans yo devan, eksperyans medya prensipal yo souvan kite dèyè."
   },
   zh: {
     // Site-wide
@@ -286,5 +338,18 @@ window.TRANSLATIONS = {
     benefitsApply: "如何申请",
     benefitsImmigration: "移民与身份",
     benefitsDisclaimer: "这些摘要仅供教育用途，不构成法律建议。项目和规则经常变化。"
+
+    // Media page
+    navMedia: "媒体",
+    homeMediaTitle: "媒体中的形象",
+    homeMediaBody: "反映移民、难民和侨民经历的电影 — 适合各个年龄段，覆盖我们支持的所有语言。",
+    homeMediaCta: "浏览影片 →",
+    mediaPageTitle: "媒体中的形象",
+    mediaPageTagline: "反映移民、难民和侨民经历的电影 — 适合各个年龄段。成人推荐重点呈现系统性不公。",
+    mediaContents: "类别",
+    mediaCalloutTitle: "给家长的提示：",
+    mediaCalloutBody: "年龄建议只是起点，不是规则 — 您最了解自己的孩子。这些电影大多可在流媒体平台或普罗维登斯公共图书馆找到。",
+    mediaInjusticeHeading: "突出展现的系统性不公",
+    mediaDisclaimer: "在此收录并不代表对每个细节都表示赞同。我们选择了那些把主流媒体常常忽视的声音与经历放在中心的影片。"
   }
 };

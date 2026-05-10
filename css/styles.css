@@ -624,3 +624,108 @@ body.modal-open { overflow: hidden; }
   font-size: 1.05rem;
   font-weight: 600;
 }
+
+/* ============================================================
+   Media representation page
+   ============================================================ */
+.media-category {
+  margin-bottom: 2rem;
+  scroll-margin-top: 1rem;
+}
+.media-category__head {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin: 0 0 0.85rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--border);
+}
+.media-category__icon {
+  font-size: 1.7rem;
+}
+.media-category h2 {
+  margin: 0;
+  font-size: 1.35rem;
+}
+
+.media-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 0.9rem;
+}
+
+.film-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--accent);
+  border-radius: 12px;
+  padding: 1rem 1.1rem;
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.film-card__head {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+}
+.film-title {
+  margin: 0;
+  font-size: 1.05rem;
+  line-height: 1.25;
+}
+.film-meta {
+  font-size: 0.78rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.film-summary {
+  margin: 0;
+  font-size: 0.92rem;
+  line-height: 1.45;
+}
+
+.film-injustice {
+  background: #fef2f2;
+  border-left: 3px solid #dc2626;
+  border-radius: 6px;
+  padding: 0.55rem 0.8rem;
+  margin-top: 0.25rem;
+}
+.film-injustice h4 {
+  margin: 0 0 0.2rem;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #991b1b;
+}
+.film-injustice p {
+  margin: 0;
+  font-size: 0.88rem;
+  color: var(--ink);
+}
+
+.film-themes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  margin-top: 0.3rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--border);
+}
+.film-theme {
+  display: inline-block;
+  font-size: 0.72rem;
+  padding: 0.15rem 0.55rem;
+  background: var(--bg);
+  color: var(--muted);
+  border-radius: 999px;
+}
+
+/* Stack film cards full-width when adult films include a long injustice block */
+.film-card[data-category="adults"] {
+  border-left-color: #dc2626;
+}

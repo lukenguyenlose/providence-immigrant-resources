@@ -1,0 +1,294 @@
+{
+  "lastUpdated": "2026-05-09",
+  "categories": [
+    {
+      "id": "young-children",
+      "icon": "👶",
+      "label": {
+        "en": "Young children",
+        "es": "Niños pequeños",
+        "pt": "Crianças pequenas",
+        "ht": "Tipiti timoun",
+        "zh": "幼童"
+      },
+      "films": [
+        {
+          "title": "Hair Love",
+          "year": 2019,
+          "ageHint": "Ages 3+",
+          "summary": {
+            "en": "An Oscar-winning short film about a Black father styling his daughter's hair for the first time. A loving celebration of natural Black hair and dad-daughter bonds.",
+            "es": "Cortometraje ganador del Oscar sobre un padre afroamericano que peina el cabello de su hija por primera vez. Una celebración cariñosa del cabello natural negro y del vínculo entre padre e hija.",
+            "pt": "Curta-metragem vencedor do Oscar sobre um pai negro penteando o cabelo da filha pela primeira vez. Uma celebração carinhosa dos cabelos naturais negros e do vínculo entre pai e filha.",
+            "ht": "Yon kout fim ki te genyen Oscar sou yon papa Nwa k ap penyen cheve pitit fi li pou premye fwa. Yon selebrasyon damou cheve natirèl Nwa ak lyen papa-pitit fi.",
+            "zh": "一部荣获奥斯卡奖的短片，讲述一位黑人父亲第一次为女儿梳头。这是对天然黑发以及父女之情的温馨颂歌。"
+          },
+          "themes": {
+            "en": ["self-love", "Black family", "fatherhood"],
+            "es": ["amor propio", "familia afroamericana", "paternidad"],
+            "pt": ["autoestima", "família negra", "paternidade"],
+            "ht": ["renmen tèt ou", "fanmi Nwa", "paternite"],
+            "zh": ["自我接纳", "黑人家庭", "父爱"]
+          }
+        },
+        {
+          "title": "The Princess and the Frog",
+          "year": 2009,
+          "ageHint": "Ages 5+",
+          "summary": {
+            "en": "Disney's first Black princess. Tiana works two jobs in 1920s New Orleans to chase her dream of opening a restaurant — until a magical frog turns everything upside-down. Celebrates Louisiana Creole culture, Black ambition, and finding family on your terms.",
+            "es": "La primera princesa afroamericana de Disney. Tiana trabaja en dos empleos en la Nueva Orleans de los años 20 para cumplir su sueño de abrir un restaurante, hasta que una rana mágica lo cambia todo. Celebra la cultura criolla de Luisiana, la ambición negra y la familia construida a tu manera.",
+            "pt": "A primeira princesa negra da Disney. Tiana trabalha em dois empregos na Nova Orleans dos anos 1920 para realizar seu sonho de abrir um restaurante, até que um sapo mágico vira tudo de cabeça para baixo. Celebra a cultura crioula da Louisiana, a ambição negra e o amor construído nos seus próprios termos.",
+            "ht": "Premye princès Nwa Disney. Tiana travay nan de djòb nan New Orleans nan ane 1920 yo pou reyalize rèv li pou louvri yon restoran — jiskaske yon krapò majik chanje tout bagay. Selebre kilti Kreyòl Louisiana, anbisyon Nwa, ak fanmi w jwenn nan pwòp tèm w.",
+            "zh": "迪士尼第一位黑人公主。在 1920 年代的新奥尔良，蒂亚娜身兼两份工作，追逐开餐馆的梦想 — 直到一只魔法青蛙把一切都翻了个底朝天。赞颂路易斯安那克里奥尔文化、黑人进取心，以及自己定义的家。"
+          },
+          "themes": {
+            "en": ["hard work", "Louisiana Creole culture", "dreams"],
+            "es": ["esfuerzo", "cultura criolla de Luisiana", "sueños"],
+            "pt": ["trabalho duro", "cultura crioula da Louisiana", "sonhos"],
+            "ht": ["travay di", "kilti Kreyòl Louisiana", "rèv"],
+            "zh": ["勤奋", "路易斯安那克里奥尔文化", "梦想"]
+          }
+        },
+        {
+          "title": "Encanto",
+          "year": 2021,
+          "ageHint": "Ages 5+",
+          "summary": {
+            "en": "The Madrigal family lives in a magical house in the mountains of Colombia, where every child gets a magical gift — except Mirabel. A musical exploration of family expectations, generational trauma, and what makes you special when you don't fit the mold.",
+            "es": "La familia Madrigal vive en una casa mágica en las montañas de Colombia, donde cada hijo recibe un don mágico, excepto Mirabel. Una exploración musical de las expectativas familiares, los traumas generacionales y lo que te hace especial cuando no encajas en el molde.",
+            "pt": "A família Madrigal vive em uma casa mágica nas montanhas da Colômbia, onde cada criança recebe um dom mágico — exceto Mirabel. Uma exploração musical sobre expectativas familiares, traumas geracionais e o que torna você especial quando você não se encaixa no padrão.",
+            "ht": "Fanmi Madrigal viv nan yon kay majik nan mòn Kolonbi yo, kote chak timoun resevwa yon kado majik — eksepte Mirabel. Yon eksplorasyon mizikal sou atant fanmi, twomatis ki pase nan jenerasyon, ak sa ki fè ou espesyal lè ou pa antre nan mòl la.",
+            "zh": "马德里加尔一家住在哥伦比亚山区的一栋魔法屋中，家里每个孩子都获得了一份魔法天赋 — 唯独米拉贝尔没有。这部音乐电影探讨家庭期望、代际创伤，以及当你不符合『常规』时，是什么让你独一无二。"
+          },
+          "themes": {
+            "en": ["Colombian culture", "family", "feeling different"],
+            "es": ["cultura colombiana", "familia", "sentirse diferente"],
+            "pt": ["cultura colombiana", "família", "sentir-se diferente"],
+            "ht": ["kilti Kolonbyen", "fanmi", "santi w diferan"],
+            "zh": ["哥伦比亚文化", "家庭", "与众不同"]
+          }
+        }
+      ]
+    },
+    {
+      "id": "older-kids",
+      "icon": "🧒",
+      "label": {
+        "en": "Older kids",
+        "es": "Niños mayores",
+        "pt": "Crianças maiores",
+        "ht": "Pi gran timoun",
+        "zh": "大龄儿童"
+      },
+      "films": [
+        {
+          "title": "Queen of Katwe",
+          "year": 2016,
+          "ageHint": "Ages 9+",
+          "summary": {
+            "en": "Based on the true story of Phiona Mutesi, a girl from a Ugandan slum who learns to play chess and becomes a champion. About talent that exists everywhere but only blooms when someone gives it space, and about the courage to imagine a different life.",
+            "es": "Basada en la historia real de Phiona Mutesi, una niña de un barrio pobre de Uganda que aprende a jugar ajedrez y se convierte en campeona. Sobre el talento que existe en todas partes pero que solo florece cuando alguien le da espacio, y el valor de imaginar una vida diferente.",
+            "pt": "Baseado na história real de Phiona Mutesi, uma menina de uma favela em Uganda que aprende a jogar xadrez e se torna campeã. Sobre o talento que existe em todos os lugares mas só floresce quando alguém abre espaço para ele, e a coragem de imaginar uma vida diferente.",
+            "ht": "Baze sou istwa vrè Phiona Mutesi, yon ti fi ki soti nan yon bidonvil Ouganda ki aprann jwe echèk epi vin yon chanpyon. Sou talan ki egziste toupatou men ki sèlman fleri lè yon moun ba li espas, ak kouraj pou imajine yon lavi diferan.",
+            "zh": "改编自菲奥娜·穆特西的真实故事 — 一个来自乌干达贫民窟的女孩学习国际象棋并最终成为冠军。讲述的是天赋无处不在，但只有在有人为它腾出空间时才会绽放，以及敢于想象另一种人生的勇气。"
+          },
+          "themes": {
+            "en": ["Uganda", "poverty", "perseverance", "mentorship"],
+            "es": ["Uganda", "pobreza", "perseverancia", "mentoría"],
+            "pt": ["Uganda", "pobreza", "perseverança", "mentoria"],
+            "ht": ["Ouganda", "povrete", "pèsistans", "konsèy"],
+            "zh": ["乌干达", "贫困", "坚持", "良师指引"]
+          }
+        },
+        {
+          "title": "McFarland, USA",
+          "year": 2015,
+          "ageHint": "Ages 9+",
+          "summary": {
+            "en": "A coach moves to a small Mexican-American farming town in California and turns a group of teenage farm-laborers into a state-champion cross-country team. About communities the rest of America rarely sees, and the strength immigrant kids carry from working before sunrise.",
+            "es": "Un entrenador se muda a un pequeño pueblo agrícola mexicoamericano en California y convierte a un grupo de jóvenes jornaleros en el equipo campeón estatal de campo traviesa. Sobre comunidades que el resto del país rara vez ve, y la fuerza que los niños inmigrantes traen de trabajar antes del amanecer.",
+            "pt": "Um treinador se muda para uma pequena cidade agrícola mexicano-americana na Califórnia e transforma um grupo de adolescentes lavradores em um time campeão estadual de cross-country. Sobre comunidades que o resto da América quase nunca vê, e a força que crianças imigrantes carregam de trabalhar antes do amanhecer.",
+            "ht": "Yon antrenè deplase nan yon ti vil agrikòl Meksiken-Ameriken nan Kalifòni epi fè yon gwoup adolesan ki ap travay nan jaden vin chanpyon eta a nan kous lonjè. Sou kominote ki rès Ameriken yo raman wè, ak fòs ti timoun imigran pote pou yo travay anvan solèy leve.",
+            "zh": "一位教练搬到加州一个墨西哥裔美国人的小农业城镇，把一群在田里干活的青少年训练成州冠军越野跑队。讲述的是美国主流社会很少看到的社区，以及移民孩子从天没亮就开始劳作中所积累的力量。"
+          },
+          "themes": {
+            "en": ["Mexican-American identity", "farm labor", "team", "belonging"],
+            "es": ["identidad mexicoamericana", "trabajo agrícola", "equipo", "pertenencia"],
+            "pt": ["identidade mexicano-americana", "trabalho agrícola", "equipe", "pertencimento"],
+            "ht": ["idantite Meksiken-Ameriken", "travay agrikòl", "ekip", "fè pati"],
+            "zh": ["墨西哥裔美国人身份", "农业劳动", "团队", "归属感"]
+          }
+        }
+      ]
+    },
+    {
+      "id": "teens",
+      "icon": "🎓",
+      "label": {
+        "en": "Teens",
+        "es": "Adolescentes",
+        "pt": "Adolescentes",
+        "ht": "Adolesan",
+        "zh": "青少年"
+      },
+      "films": [
+        {
+          "title": "Hidden Figures",
+          "year": 2016,
+          "ageHint": "Ages 12+",
+          "summary": {
+            "en": "Three Black women — Katherine Johnson, Dorothy Vaughan, and Mary Jackson — calculated trajectories for NASA and helped put John Glenn into orbit, while still being told to use a coffee pot labeled 'colored' and run a half-mile across campus to use a 'colored' bathroom. A film about brilliance under structural humiliation.",
+            "es": "Tres mujeres afroamericanas — Katherine Johnson, Dorothy Vaughan y Mary Jackson — calcularon trayectorias para la NASA y ayudaron a poner a John Glenn en órbita, mientras les decían que usaran una cafetera marcada 'de color' y caminaran medio kilómetro por el campus para usar un baño 'de color'. Una película sobre la brillantez bajo la humillación estructural.",
+            "pt": "Três mulheres negras — Katherine Johnson, Dorothy Vaughan e Mary Jackson — calcularam trajetórias para a NASA e ajudaram a colocar John Glenn em órbita, mesmo sendo obrigadas a usar uma cafeteira marcada 'colored' e a atravessar meio quilômetro do campus para usar um banheiro 'colored'. Um filme sobre brilhantismo em meio à humilhação estrutural.",
+            "ht": "Twa fanm Nwa — Katherine Johnson, Dorothy Vaughan, ak Mary Jackson — te kalkile trajektwa pou NASA epi ede mete John Glenn nan òbit, pandan yo te di yo itilize yon kafetyè make 'colored' epi kouri mwatye mil atravè kanpis la pou itilize yon twalèt 'colored'. Yon fim sou jeni anba imilyasyon estriktirèl.",
+            "zh": "三位黑人女性 — 凯瑟琳·约翰逊、桃乐茜·沃恩和玛丽·杰克逊 — 为 NASA 计算飞行轨迹，帮助约翰·格伦进入地球轨道，同时却被要求使用标着『有色人种』的咖啡壶，并要跑半英里穿过校园才能使用『有色人种』专用厕所。这部电影展现了在结构性羞辱之下闪耀的才华。"
+          },
+          "themes": {
+            "en": ["Black women in STEM", "civil rights", "segregation", "true story"],
+            "es": ["mujeres negras en STEM", "derechos civiles", "segregación", "historia real"],
+            "pt": ["mulheres negras em STEM", "direitos civis", "segregação", "história real"],
+            "ht": ["fanm Nwa nan STEM", "dwa sivil", "segregasyon", "istwa vrè"],
+            "zh": ["STEM 领域的黑人女性", "民权运动", "种族隔离", "真实故事"]
+          }
+        },
+        {
+          "title": "Minari",
+          "year": 2020,
+          "ageHint": "Ages 13+",
+          "summary": {
+            "en": "A Korean-American family moves to rural Arkansas in the 1980s to start a farm. Quiet, slow, and full of the small heartbreaks of immigrant life — language gaps between generations, a grandmother who doesn't seem like a 'real' grandma to her American grandkids, the loneliness of building a life in a place no one looks like you.",
+            "es": "Una familia coreoamericana se muda a la zona rural de Arkansas en los años 80 para iniciar una granja. Silenciosa, pausada y llena de los pequeños dolores de la vida inmigrante: las brechas de idioma entre generaciones, una abuela que no le parece una abuela 'de verdad' a sus nietos americanos, la soledad de construir una vida donde nadie se parece a ti.",
+            "pt": "Uma família coreano-americana se muda para a zona rural do Arkansas nos anos 1980 para começar uma fazenda. Quieto, lento e cheio das pequenas angústias da vida imigrante — as lacunas de idioma entre gerações, uma avó que não parece uma avó 'de verdade' para os netos americanos, a solidão de construir uma vida onde ninguém se parece com você.",
+            "ht": "Yon fanmi Koreyen-Ameriken deplase nan zòn riral Arkansas nan ane 1980 yo pou kòmanse yon fèm. Kalm, dousman, ak chaje ti chagrin lavi imigran an — espas lang ant jenerasyon, yon grann ki pa parèt yon grann 'reyèl' pou pitit pitit Ameriken li yo, solitid pou bati yon lavi kote pèsòn pa parèt tankou ou.",
+            "zh": "一个韩裔美国家庭于 1980 年代搬到阿肯色州乡下经营农场。影片节奏舒缓，充满移民生活中的微小心碎 — 代际之间的语言隔阂、对美国出生的孙辈来说不像『真奶奶』的奶奶、在一个没人长得像你的地方扎根的孤独。"
+          },
+          "themes": {
+            "en": ["Korean-American", "rural America", "generational gap", "language"],
+            "es": ["coreoamericano", "Estados Unidos rural", "brecha generacional", "idioma"],
+            "pt": ["coreano-americano", "EUA rural", "lacuna geracional", "idioma"],
+            "ht": ["Koreyen-Ameriken", "Ameriken riral", "espas jenerasyon", "lang"],
+            "zh": ["韩裔美国人", "美国乡村", "代沟", "语言"]
+          }
+        }
+      ]
+    },
+    {
+      "id": "adults",
+      "icon": "🎬",
+      "label": {
+        "en": "Adults",
+        "es": "Adultos",
+        "pt": "Adultos",
+        "ht": "Granmoun",
+        "zh": "成人"
+      },
+      "films": [
+        {
+          "title": "The Florida Project",
+          "year": 2017,
+          "ageHint": "Adult themes",
+          "summary": {
+            "en": "Six-year-old Moonee spends her summer running wild around a budget motel outside Disney World, where her young mother is doing whatever she has to in order to make rent. The film never says 'homelessness' — but that's exactly what it shows: families one bad week away from the street, paying nightly for a place to sleep, invisible to the tourists driving past.",
+            "es": "Moonee, de seis años, pasa el verano correteando libremente en un motel barato a las afueras de Disney World, donde su joven madre hace lo que sea para pagar el alquiler. La película nunca dice 'falta de vivienda', pero es exactamente lo que muestra: familias a una mala semana de la calle, que pagan por noche un lugar donde dormir, invisibles para los turistas que pasan en coche.",
+            "pt": "Moonee, de seis anos, passa o verão correndo solta por um motel barato perto da Disney World, enquanto sua mãe jovem faz o que for preciso para pagar o aluguel. O filme nunca diz a palavra 'falta de moradia' — mas é exatamente o que mostra: famílias a uma semana ruim da rua, pagando uma diária para ter onde dormir, invisíveis aos turistas que passam de carro.",
+            "ht": "Moonee, ki gen sis ane, pase ete li ap kouri toupatou nan yon motèl bon mache deyò Disney World, kote jèn manman li ap fè tout sa li dwe fè pou peye lwaye. Fim nan pa janm di mo 'san kay' — men se egzakteman sa li montre: fanmi yo yon move semèn lwen lari, k ap peye chak nwit pou yon plas pou yo dòmi, envizib pou touris ki pase nan machin yo.",
+            "zh": "六岁的穆妮在迪士尼世界外一家廉价汽车旅馆里度过整个夏天，她的年轻母亲为了凑齐租金不惜做任何事。电影从未说出『无家可归』四个字 — 但它展现的正是这种处境：与流落街头只差一个倒霉一周的家庭，按夜付费换一个睡觉的地方，对开车驶过的游客来说完全隐形。"
+          },
+          "injustice": {
+            "en": "Hidden homelessness in America. The U.S. doesn't count families living week-to-week in motels as 'homeless,' so they don't qualify for shelter beds, school stability protections, or housing aid that would otherwise be available. An entire population — disproportionately children — falls through the cracks because of how the law defines a word.",
+            "es": "Falta de vivienda invisible en Estados Unidos. EE.UU. no cuenta como 'sin hogar' a las familias que viven semana a semana en moteles, así que no califican para camas de refugio, protecciones de estabilidad escolar ni ayudas de vivienda que de otro modo recibirían. Toda una población — desproporcionadamente niños — cae por las grietas por cómo la ley define una palabra.",
+            "pt": "Falta de moradia invisível nos EUA. Os EUA não contam famílias vivendo semana a semana em motéis como 'sem-teto', então elas não se qualificam para vagas em abrigos, proteções de estabilidade escolar ou ajuda habitacional que de outra forma estariam disponíveis. Uma população inteira — desproporcionalmente crianças — escorrega pelas frestas por causa de como a lei define uma palavra.",
+            "ht": "Mank lojman ki kache nan Amerik. Ozetazini yo pa konte fanmi k ap viv semèn pa semèn nan motèl kòm 'san kay', kidonk yo pa kalifye pou kabann nan refij, pwoteksyon estabilite lekòl, oswa èd lojman ki ta disponib otreman. Yon popilasyon antye — disproporsyonèlman timoun — pase nan twou yo akòz fason lwa a defini yon mo.",
+            "zh": "美国看不见的无家可归现象。美国法律不把按周住在汽车旅馆的家庭算作『无家可归者』，因此他们没有资格获得收容床位、校园稳定保护或本可申请的住房援助。整整一群人 — 其中大多是儿童 — 因为法律对一个词的定义而被制度遗漏。"
+          },
+          "themes": {
+            "en": ["hidden homelessness", "child poverty", "Florida"],
+            "es": ["falta de vivienda invisible", "pobreza infantil", "Florida"],
+            "pt": ["falta de moradia invisível", "pobreza infantil", "Flórida"],
+            "ht": ["mank lojman ki kache", "povrete timoun", "Florid"],
+            "zh": ["隐藏的无家可归", "儿童贫困", "佛罗里达"]
+          }
+        },
+        {
+          "title": "Just Mercy",
+          "year": 2019,
+          "ageHint": "Adult themes",
+          "summary": {
+            "en": "A young Harvard-trained Black lawyer, Bryan Stevenson, moves to Alabama to defend death-row prisoners — including Walter McMillian, a Black man framed for a murder he didn't commit. Based on Stevenson's real work with the Equal Justice Initiative.",
+            "es": "Un joven abogado afroamericano formado en Harvard, Bryan Stevenson, se muda a Alabama para defender a presos condenados a muerte, incluido Walter McMillian, un hombre negro acusado falsamente de un asesinato que no cometió. Basada en el trabajo real de Stevenson con la Equal Justice Initiative.",
+            "pt": "Um jovem advogado negro formado em Harvard, Bryan Stevenson, muda-se para o Alabama para defender presos no corredor da morte — incluindo Walter McMillian, um homem negro acusado injustamente de um assassinato que não cometeu. Baseado no trabalho real de Stevenson com a Equal Justice Initiative.",
+            "ht": "Yon jèn avoka Nwa ki te etidye nan Harvard, Bryan Stevenson, deplase nan Alabama pou defann prizonye ki kondane a lanmò — ki gen ladan Walter McMillian, yon nonm Nwa yo te akize a fos pou yon asasinay li pa t fè. Baze sou travay reyèl Stevenson ak Equal Justice Initiative.",
+            "zh": "年轻的哈佛黑人律师布莱恩·史蒂文森前往阿拉巴马州为死刑犯辩护，其中包括沃尔特·麦克米利安 — 一名被诬告犯下并未实施的谋杀的黑人。改编自史蒂文森在 Equal Justice Initiative 的真实经历。"
+          },
+          "injustice": {
+            "en": "Race and the death penalty. In the U.S., a Black defendant accused of killing a white victim is far more likely to receive a death sentence than the reverse — and Black people are systematically over-represented among those later proven innocent and exonerated. The film shows this not as accident but as the design of policing, prosecution, and indigent defense.",
+            "es": "Raza y pena de muerte. En EE.UU., un acusado afroamericano acusado de matar a una víctima blanca tiene muchas más probabilidades de recibir la pena de muerte que al revés, y las personas negras están sistemáticamente sobrerepresentadas entre quienes luego se prueban inocentes y son exonerados. La película lo muestra no como accidente, sino como el diseño de la vigilancia policial, la fiscalía y la defensa pública.",
+            "pt": "Raça e pena de morte. Nos EUA, um réu negro acusado de matar uma vítima branca tem muito mais chances de receber pena de morte do que o contrário — e pessoas negras estão sistematicamente super-representadas entre as que depois são provadas inocentes e absolvidas. O filme mostra isso não como acaso, mas como resultado do desenho do policiamento, da promotoria e da defensoria pública.",
+            "ht": "Ras ak penn lanmò. Nan Etazini, yon akize Nwa yo akize pou touye yon viktim Blan gen plis chans pou yo kondane l alanmò pase lòt sans lan — epi moun Nwa yo te systematikman twòp reprezante pami sa yo ki pita pwouve inosan epi yo ekzonere. Fim nan montre sa pa kòm aksidan men kòm desen lapolis, akizatè, ak defans pou pòv yo.",
+            "zh": "种族与死刑。在美国，被指控杀害白人受害者的黑人被告获判死刑的可能性远高于反向情形 — 而后来被证明清白获释的人当中，黑人比例系统性地偏高。这部电影揭示，这并非意外，而是警务、检察制度与穷人辩护体系的结构性设计。"
+          },
+          "themes": {
+            "en": ["death penalty", "wrongful conviction", "Alabama", "Equal Justice Initiative"],
+            "es": ["pena de muerte", "condena injusta", "Alabama", "Equal Justice Initiative"],
+            "pt": ["pena de morte", "condenação injusta", "Alabama", "Equal Justice Initiative"],
+            "ht": ["penn lanmò", "kondanasyon san rezon", "Alabama", "Equal Justice Initiative"],
+            "zh": ["死刑", "冤案", "阿拉巴马州", "Equal Justice Initiative"]
+          }
+        },
+        {
+          "title": "The Farewell",
+          "year": 2019,
+          "ageHint": "Adult themes",
+          "summary": {
+            "en": "A Chinese-American woman travels to China for a fake wedding — the family's pretext to gather and say goodbye to her grandmother, who has terminal cancer but hasn't been told. Based on director Lulu Wang's own family. A meditation on what 'family' means when love and lying are inseparable.",
+            "es": "Una mujer chinoestadounidense viaja a China para una boda falsa, el pretexto familiar para reunirse y despedirse de su abuela, que tiene cáncer terminal pero no lo sabe. Basada en la propia familia de la directora Lulu Wang. Una meditación sobre lo que significa 'familia' cuando el amor y la mentira son inseparables.",
+            "pt": "Uma mulher chinesa-americana viaja para a China para um casamento falso — o pretexto da família para se reunir e se despedir da avó, que tem câncer terminal mas não foi informada. Baseado na própria família da diretora Lulu Wang. Uma meditação sobre o que 'família' significa quando amor e mentira são inseparáveis.",
+            "ht": "Yon fanm Chinwa-Ameriken vwayaje nan Chin pou yon maryaj fo — preteks fanmi an pou rasanble epi di orevwa grann li, ki gen kansè final men yo poko di l. Baze sou pwòp fanmi direktè Lulu Wang. Yon meditasyon sou sa 'fanmi' vle di lè lanmou ak manti pa ka separe.",
+            "zh": "一位华裔美国女子返回中国参加一场假婚礼 — 这是家人借机团聚、向身患癌症晚期却被瞒在鼓里的奶奶告别的方式。改编自导演王子逸自己的家庭故事。一部关于当爱与隐瞒不可分割时，『家』究竟意味着什么的沉思之作。"
+          },
+          "injustice": {
+            "en": "Quieter than the others, but no less structural: the immigrant child caught between two cultures' definitions of love. American medical ethics demand the patient be told their diagnosis; Chinese tradition often holds that knowing kills the spirit and the family carries that weight. The film shows how 'right' and 'wrong' depend on whose system is in charge — and what an immigrant inherits when they live between systems.",
+            "es": "Más callado que los demás, pero no menos estructural: el hijo inmigrante atrapado entre las definiciones de amor de dos culturas. La ética médica estadounidense exige que se informe al paciente de su diagnóstico; la tradición china a menudo sostiene que saber mata el espíritu y la familia carga con ese peso. La película muestra cómo lo 'correcto' y lo 'incorrecto' dependen de qué sistema manda, y qué hereda un inmigrante cuando vive entre sistemas.",
+            "pt": "Mais silencioso que os outros, mas não menos estrutural: a criança imigrante presa entre duas definições culturais de amor. A ética médica americana exige que o paciente seja informado do diagnóstico; a tradição chinesa frequentemente sustenta que saber mata o espírito e a família carrega esse peso. O filme mostra como 'certo' e 'errado' dependem de qual sistema está no comando — e o que um imigrante herda quando vive entre sistemas.",
+            "ht": "Pi trankil pase lòt yo, men pa mwens estriktirèl: timoun imigran an kanpe ant defini lanmou de kilti diferan. Etik medikal Ameriken egzije yo di pasyan an dyagnostik li; tradisyon Chinwa souvan kenbe ke konnen touye lespri a epi fanmi an pote pwa sa a. Fim nan montre kijan 'bon' ak 'move' depann sou ki sistèm ki responsab — ak sa yon imigran erite lè li viv ant sistèm yo.",
+            "zh": "比其他几部更安静，但同样具有结构性：被夹在两种文化的『爱』之间的移民子女。美国医学伦理要求告知病人诊断结果；中国传统则常认为得知病情会击垮精神，因此由家人替她承担。电影展现『对』与『错』取决于哪种制度当道 — 也展现了移民在两种制度之间生活时所继承的一切。"
+           },
+          "themes": {
+            "en": ["Chinese-American", "family", "death and dying", "two cultures"],
+            "es": ["chinoestadounidense", "familia", "muerte", "dos culturas"],
+            "pt": ["chinês-americano", "família", "morte", "duas culturas"],
+            "ht": ["Chinwa-Ameriken", "fanmi", "lanmò", "de kilti"],
+            "zh": ["华裔美国人", "家庭", "生死", "两种文化"]
+          }
+        },
+        {
+          "title": "Capernaum",
+          "year": 2018,
+          "ageHint": "Adult themes",
+          "summary": {
+            "en": "A 12-year-old boy in Beirut sues his parents — for giving him life. From a Lebanese slum, Zain navigates child labor, child marriage, statelessness, and the impossibility of being a person without papers. Director Nadine Labaki cast non-professional actors who had lived these situations.",
+            "es": "Un niño de 12 años en Beirut demanda a sus padres por haberle dado la vida. Desde un barrio pobre de Líbano, Zain navega entre el trabajo infantil, el matrimonio infantil, la apatridia y la imposibilidad de ser una persona sin papeles. La directora Nadine Labaki eligió a actores no profesionales que habían vivido estas situaciones.",
+            "pt": "Um menino de 12 anos em Beirute processa os pais — por terem lhe dado a vida. De uma favela libanesa, Zain navega o trabalho infantil, o casamento infantil, a apatridia e a impossibilidade de ser pessoa sem documentos. A diretora Nadine Labaki escalou atores não profissionais que viveram essas situações.",
+            "ht": "Yon ti gason 12 ane nan Beyrout pwosè paran l — paske yo te ba li lavi. Soti nan yon bidonvil Libanè, Zain navige travay timoun, maryaj timoun, pa gen nasyonalite, ak enposiblite pou yon moun viv san papye. Direktè Nadine Labaki te chwazi aktè ki pa pwofesyonèl ki te viv sitiyasyon sa yo.",
+            "zh": "一个 12 岁的贝鲁特男孩起诉自己的父母 — 因为他们把他带到这个世上。来自黎巴嫩的一个贫民窟，扎因要面对童工、童婚、无国籍身份，以及作为一个没有证件的人几乎无法立足的处境。导演娜丁·拉巴基启用了真正经历过这些处境的非职业演员。"
+          },
+          "injustice": {
+            "en": "Statelessness. Around the world, millions of children are born to undocumented or stateless parents and never get a birth certificate. Without one, they cannot enroll in school, get a vaccine, work legally, marry, or — the cruelest cycle — register their own children. Capernaum shows what it means to be a person whom no government will officially admit exists.",
+            "es": "Apatridia. En todo el mundo, millones de niños nacen de padres indocumentados o apátridas y nunca obtienen un acta de nacimiento. Sin ella, no pueden matricularse en la escuela, vacunarse, trabajar legalmente, casarse o, en el ciclo más cruel, registrar a sus propios hijos. Capernaum muestra lo que significa ser una persona cuya existencia ningún gobierno reconoce oficialmente.",
+            "pt": "Apatridia. Pelo mundo, milhões de crianças nascem de pais indocumentados ou apátridas e nunca recebem certidão de nascimento. Sem ela, não podem se matricular na escola, tomar vacina, trabalhar legalmente, casar — ou, no ciclo mais cruel, registrar os próprios filhos. Capernaum mostra o que significa ser uma pessoa cuja existência nenhum governo reconhece oficialmente.",
+            "ht": "Pa gen nasyonalite. Atravè mond lan, milyon timoun fèt nan paran ki san papye oswa san nasyonalite epi yo pa janm jwenn yon batistè. San li, yo pa ka enskri lekòl, jwenn vaksen, travay legalman, marye, oswa — sik ki pi mechan an — anrejistre pwòp pitit yo. Capernaum montre sa li vle di pou yon moun pèsòn gouvènman pa reconèt ofisyèlman ke li egziste.",
+            "zh": "无国籍状态。在世界各地，数以百万计的孩子出生于无证或无国籍父母，从未获得出生证明。没有它，他们无法入学、接种疫苗、合法工作、结婚 — 在最残酷的循环里，连自己的孩子也无法登记。《何以为家》展现了一个没有任何政府承认其存在的人，意味着什么。"
+          },
+          "themes": {
+            "en": ["statelessness", "Lebanon", "child rights", "documentation"],
+            "es": ["apatridia", "Líbano", "derechos del niño", "documentación"],
+            "pt": ["apatridia", "Líbano", "direitos da criança", "documentação"],
+            "ht": ["pa gen nasyonalite", "Liban", "dwa timoun", "dokiman"],
+            "zh": ["无国籍", "黎巴嫩", "儿童权利", "证件"]
+          }
+        }
+      ]
+    }
+  ]
+}
