@@ -8,6 +8,8 @@
     energy: "⚡",
     money:  "💵",
     house:  "🏠",
+    phone:  "📞",
+    id:     "🪪",
   };
 
   const state = {

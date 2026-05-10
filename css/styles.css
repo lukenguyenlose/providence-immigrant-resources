@@ -624,20 +624,3 @@ body.modal-open { overflow: hidden; }
   font-size: 1.05rem;
   font-weight: 600;
 }
-
-
-/* Unverified resource flag (helps with content review before launch) */
-.unverified-flag {
-  display: inline-block;
-  margin-left: 0.4rem;
-  padding: 0.05rem 0.45rem;
-  font-size: 0.65rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  background: #fff3cd;
-  color: #92400e;
-  border: 1px solid #facc15;
-  border-radius: 999px;
-  vertical-align: middle;
-}

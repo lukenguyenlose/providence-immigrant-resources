@@ -1,6 +1,49 @@
 {
-  "lastUpdated": "2026-04-30",
+  "lastUpdated": "2026-05-09",
   "programs": [
+    {
+      "id": "211-ri",
+      "icon": "phone",
+      "name": {
+        "en": "211 Rhode Island",
+        "es": "211 Rhode Island",
+        "pt": "211 Rhode Island",
+        "ht": "211 Rhode Island"
+      },
+      "summary": {
+        "en": "First place to call or text when you don't know where to start. Free 24/7 connection to food, housing, utilities, healthcare, legal aid, and emergency resources statewide.",
+        "es": "El primer lugar donde llamar o enviar mensaje cuando no sabe por dónde empezar. Conexión gratuita las 24 horas a recursos de alimentos, vivienda, servicios públicos, salud, ayuda legal y emergencias en todo el estado.",
+        "pt": "Primeiro lugar para ligar ou enviar mensagem quando você não sabe por onde começar. Conexão gratuita 24/7 a recursos de alimentos, moradia, contas, saúde, ajuda jurídica e emergências em todo o estado.",
+        "ht": "Premye kote pou rele oswa voye mesaj lè ou pa konnen ki kote pou kòmanse. Koneksyon gratis 24/7 ak resous pou manje, lojman, sèvis piblik, swen sante, èd legal, ak ijans nan tout eta a."
+      },
+      "eligibility": {
+        "en": "Open to anyone in Rhode Island. No income limit, no documentation needed.",
+        "es": "Abierto a cualquier persona en Rhode Island. Sin límite de ingresos ni documentación requerida.",
+        "pt": "Aberto a qualquer pessoa em Rhode Island. Sem limite de renda nem documentação exigida.",
+        "ht": "Louvri pou nenpòt moun nan Rhode Island. Pa gen limit revni, pa gen dokiman ki nesesè."
+      },
+      "immigrationNote": {
+        "en": "Anyone can use 211 regardless of immigration status. They don't ask about status, and they connect callers to immigrant-friendly providers when relevant. Calls and texts are confidential.",
+        "es": "Cualquier persona puede usar 211 sin importar su estatus migratorio. No preguntan sobre estatus y conectan a las personas con proveedores que apoyan a inmigrantes cuando es relevante. Las llamadas y mensajes son confidenciales.",
+        "pt": "Qualquer pessoa pode usar o 211 independentemente do status migratório. Eles não perguntam sobre status e conectam as pessoas a provedores que atendem imigrantes quando relevante. Ligações e mensagens são confidenciais.",
+        "ht": "Nenpòt moun ka itilize 211 kèlkeswa estati imigrasyon. Yo pa mande sou estati, e yo konekte moun ak founisè ki sipòte imigran lè li pèrtinan. Apèl ak mesaj yo konfidansyèl."
+      },
+      "documents": {
+        "en": "None — just call or text.",
+        "es": "Ninguno: solo llame o envíe un mensaje.",
+        "pt": "Nenhum — basta ligar ou enviar mensagem.",
+        "ht": "Anyen — senpman rele oswa voye mesaj."
+      },
+      "howToApply": {
+        "en": "Dial 211 from any phone, text your ZIP code to 898211, or visit 211ri.org. Multilingual help available 24/7.",
+        "es": "Marque 211 desde cualquier teléfono, envíe su código postal por mensaje al 898211, o visite 211ri.org. Ayuda multilingüe disponible las 24 horas.",
+        "pt": "Disque 211 de qualquer telefone, envie seu CEP por mensagem para 898211, ou visite 211ri.org. Ajuda multilíngue disponível 24/7.",
+        "ht": "Konpoze 211 sou nenpòt telefòn, voye kòd postal ou pa mesaj nan 898211, oswa vizite 211ri.org. Èd nan plizyè lang disponib 24/7."
+      },
+      "links": [
+        { "label": "211ri.org", "url": "https://www.211ri.org" }
+      ]
+    },
     {
       "id": "snap",
       "icon": "food",
@@ -23,16 +66,16 @@
         "ht": "Baze sou revni ak gwosè kay la. Pifò fanmi k ap travay ak revni ki ba oswa modere kalifye."
       },
       "immigrationNote": {
-      "en": "Most adult immigrants must have lawful status for 5 or more years. Refugees and asylees may qualify right away.",
-      "es": "La mayoría de los inmigrantes adultos deben tener estatus legal por 5 años o más. Los refugiados y asilados pueden calificar de inmediato.",
-      "pt": "A maioria dos imigrantes adultos precisa ter status legal por 5 anos ou mais. Refugiados e asilados podem se qualificar imediatamente.",
-      "ht": "Pifò imigran adilt dwe gen estati legal pou 5 ane oswa plis. Refijye ak moun ki gen azil ka kalifye imedyatman."
-    },
+        "en": "Most adult immigrants must have lawful status for 5+ years. EXCEPTIONS: refugees, asylees, and certain humanitarian categories qualify immediately. U.S.-citizen children in mixed-status families CAN receive SNAP — applying for them does not affect the parents' status.",
+        "es": "La mayoría de los inmigrantes adultos deben tener estatus legal por 5+ años. EXCEPCIONES: refugiados, asilados y ciertas categorías humanitarias califican de inmediato. Los hijos ciudadanos de EE.UU. en familias de estatus mixto SÍ pueden recibir SNAP — solicitarlo para ellos no afecta el estatus de los padres.",
+        "pt": "A maioria dos imigrantes adultos precisa ter status legal por 5+ anos. EXCEÇÕES: refugiados, asilados e certas categorias humanitárias se qualificam imediatamente. Filhos cidadãos americanos em famílias de status misto PODEM receber SNAP — solicitá-lo para eles não afeta o status dos pais.",
+        "ht": "Pifò imigran adilt dwe gen estati legal pou 5+ ane. EKSEPSYON: refijye, moun ki gen azil, ak kèk kategori imanitè kalifye imedyatman. Timoun ki sitwayen ameriken nan fanmi ki gen estati melanje KAPAB resevwa SNAP — aplike pou yo pa afekte estati paran yo."
+      },
       "documents": {
-        "en": "ID, Social Security number, proof of address, recent pay stubs or income, and rent/utility bills.",
-        "es": "Identificación, número de Seguro Social, prueba de domicilio, recibos de pago recientes y facturas de alquiler/servicios.",
-        "pt": "Identificação, número de Seguro Social, comprovante de endereço, contracheques recentes e contas de aluguel/serviços.",
-        "ht": "Idantifikasyon, nimewo Sekirite Sosyal, prèv adrès, dènye pay stub yo, ak fakti lwaye/sèvis."
+        "en": "ID, Social Security number (for those applying), proof of address, recent pay stubs or income, and rent/utility bills.",
+        "es": "Identificación, número de Seguro Social (de quienes solicitan), prueba de domicilio, recibos de pago recientes y facturas de alquiler/servicios.",
+        "pt": "Identificação, número de Seguro Social (de quem está solicitando), comprovante de endereço, contracheques recentes e contas de aluguel/serviços.",
+        "ht": "Idantifikasyon, nimewo Sekirite Sosyal (pou moun k ap aplike yo), prèv adrès, dènye pay stub yo, ak fakti lwaye/sèvis."
       },
       "howToApply": {
         "en": "Apply online at healthyrhode.ri.gov, by phone at (855) 697-4347, or in person at any DHS office.",
@@ -41,8 +84,360 @@
         "ht": "Aplike sou entènèt nan healthyrhode.ri.gov, pa telefòn nan (855) 697-4347, oswa an pèsòn nan nenpòt biwo DHS."
       },
       "links": [
-        {"label": "RI DHS — SNAP", "url": "https://dhs.ri.gov/programs-and-services/food-assistance-snap"},
-        {"label": "HealthyRhode (apply)", "url": "https://healthyrhode.ri.gov"}
+        { "label": "RI DHS — SNAP", "url": "https://dhs.ri.gov/programs-and-services/food-assistance-snap" },
+        { "label": "HealthyRhode (apply)", "url": "https://healthyrhode.ri.gov" }
+      ]
+    },
+    {
+      "id": "wic",
+      "icon": "food",
+      "name": {
+        "en": "WIC (Women, Infants & Children)",
+        "es": "WIC (Mujeres, Bebés y Niños)",
+        "pt": "WIC (Mulheres, Bebês e Crianças)",
+        "ht": "WIC (Fanm, Bebe ak Timoun)"
+      },
+      "summary": {
+        "en": "Healthy food, formula, breastfeeding support, and nutrition education for pregnant or postpartum people, infants, and children up to age 5.",
+        "es": "Alimentos saludables, fórmula, apoyo de lactancia y educación nutricional para embarazadas o postparto, bebés y niños hasta los 5 años.",
+        "pt": "Alimentação saudável, fórmula, apoio à amamentação e educação nutricional para gestantes/pós-parto, bebês e crianças até 5 anos.",
+        "ht": "Manje ki an sante, fòmil, sipò pou bay tete, ak edikasyon nitrisyon pou fanm ansent oswa apre akouchman, tibebe, ak timoun jiska 5 an."
+      },
+      "eligibility": {
+        "en": "Income up to 185% of federal poverty level OR already on Medicaid/SNAP/RIte Care. Must be pregnant, postpartum, or have a child under 5.",
+        "es": "Ingreso hasta el 185% del nivel federal de pobreza O ya con Medicaid/SNAP/RIte Care. Embarazadas, postparto o con hijo menor de 5 años.",
+        "pt": "Renda até 185% do nível federal de pobreza OU já no Medicaid/SNAP/RIte Care. Gestantes, pós-parto ou com filho menor de 5.",
+        "ht": "Revni jiska 185% nivo povrete federal OUBYEN deja sou Medicaid/SNAP/RIte Care. Fanm ansent, apre akouchman, oswa ki gen yon timoun anba 5 an."
+      },
+      "immigrationNote": {
+        "en": "WIC has NO immigration status requirement. It is open to anyone who qualifies based on income and category. WIC participation is NOT counted in 'public charge' decisions.",
+        "es": "WIC NO tiene requisito de estatus migratorio. Está abierto a cualquier persona que califique por ingresos y categoría. Participar en WIC NO se cuenta como 'carga pública'.",
+        "pt": "WIC NÃO tem exigência de status migratório. Aberto a qualquer pessoa que se qualifique por renda e categoria. WIC NÃO conta para 'public charge'.",
+        "ht": "WIC PA gen kondisyon estati imigrasyon. Li ouvri pou nenpòt moun ki kalifye dapre revni ak kategori. Patisipe nan WIC PA konte kòm 'public charge'."
+      },
+      "documents": {
+        "en": "Proof of identity, address, income, and pregnancy or child's birth certificate.",
+        "es": "Prueba de identidad, domicilio, ingresos y embarazo o acta de nacimiento del niño.",
+        "pt": "Comprovante de identidade, endereço, renda e gravidez ou certidão de nascimento da criança.",
+        "ht": "Prèv idantite, adrès, revni, ak gwosès oswa batistè timoun nan."
+      },
+      "howToApply": {
+        "en": "Call the RI WIC program at (401) 222-5960 or visit a WIC clinic. Walk-ins welcome at most clinics.",
+        "es": "Llame al programa WIC de RI al (401) 222-5960 o visite una clínica WIC. Se aceptan visitas sin cita en la mayoría.",
+        "pt": "Ligue para o programa WIC RI: (401) 222-5960 ou visite uma clínica WIC. Maioria aceita sem agendamento.",
+        "ht": "Rele pwogram WIC RI nan (401) 222-5960 oswa vizite yon klinik WIC. Pifò aksepte san randevou."
+      },
+      "links": [
+        { "label": "RI WIC", "url": "https://health.ri.gov/programs/detail.php?pgm_id=99" }
+      ]
+    },
+    {
+      "id": "medicaid-healthsource",
+      "icon": "health",
+      "name": {
+        "en": "Medicaid / RIte Care + HealthSource RI",
+        "es": "Medicaid / RIte Care + HealthSource RI",
+        "pt": "Medicaid / RIte Care + HealthSource RI",
+        "ht": "Medicaid / RIte Care + HealthSource RI"
+      },
+      "summary": {
+        "en": "Health insurance options. HealthSource RI is the application portal for both Medicaid (free or low-cost coverage for eligible people) and ACA marketplace plans (subsidized private insurance). RIte Care is RI's Medicaid for children, pregnant people, and parents.",
+        "es": "Opciones de seguro médico. HealthSource RI es el portal donde se solicita tanto Medicaid (cobertura gratuita o de bajo costo para personas elegibles) como los planes del Mercado de Salud (seguro privado subsidiado). RIte Care es el Medicaid de RI para niños, embarazadas y padres.",
+        "pt": "Opções de plano de saúde. HealthSource RI é o portal para se inscrever tanto no Medicaid (cobertura gratuita ou de baixo custo para pessoas elegíveis) quanto nos planos do Mercado de Saúde da ACA (seguro privado subsidiado). RIte Care é o Medicaid de RI para crianças, gestantes e pais.",
+        "ht": "Opsyon asirans sante. HealthSource RI se pòtay aplikasyon pou Medicaid (kouvèti gratis oswa pri ki ba pou moun ki kalifye) ak plan Mache ACA (asirans prive sibvansyone). RIte Care se Medicaid RI pou timoun, fanm ansent, ak paran."
+      },
+      "eligibility": {
+        "en": "Income-based for Medicaid; subsidies on marketplace plans depend on household income. Children, pregnant people, parents, seniors, and people with disabilities have different limits.",
+        "es": "Medicaid se basa en los ingresos; los subsidios en los planes del Mercado dependen del ingreso del hogar. Niños, embarazadas, padres, adultos mayores y personas con discapacidad tienen límites distintos.",
+        "pt": "Medicaid baseia-se na renda; os subsídios nos planos do Mercado dependem da renda familiar. Crianças, gestantes, pais, idosos e pessoas com deficiência têm limites diferentes.",
+        "ht": "Medicaid baze sou revni; sibvansyon sou plan Mache yo depann revni kay la. Timoun, fanm ansent, paran, granmoun aje, ak moun ki gen andikap gen limit diferan."
+      },
+      "immigrationNote": {
+        "en": "Adults generally need lawful status for 5+ years for full Medicaid. CRITICAL EXCEPTIONS: (1) Emergency Medicaid covers ER visits and labor/delivery for ANYONE regardless of status. (2) RI offers RIte Care to all income-eligible children and pregnant people regardless of immigration status (state-funded). (3) Refugees/asylees qualify for full Medicaid immediately. ACA marketplace plans require lawful presence; undocumented people cannot buy them.",
+        "es": "Los adultos generalmente necesitan estatus legal por 5+ años para Medicaid completo. EXCEPCIONES CRÍTICAS: (1) Medicaid de Emergencia cubre la sala de emergencias y el parto para CUALQUIER persona sin importar su estatus. (2) RI ofrece RIte Care a todos los niños y embarazadas elegibles por ingresos sin importar el estatus migratorio (financiado por el estado). (3) Refugiados/asilados califican para Medicaid completo de inmediato. Los planes del Mercado ACA requieren presencia legal; las personas indocumentadas no pueden comprarlos.",
+        "pt": "Adultos geralmente precisam de status legal por 5+ anos para Medicaid completo. EXCEÇÕES CRÍTICAS: (1) Medicaid de Emergência cobre pronto-socorro e parto para QUALQUER pessoa independentemente do status. (2) RI oferece RIte Care a todas as crianças e gestantes elegíveis por renda, independentemente do status migratório (financiado pelo estado). (3) Refugiados/asilados se qualificam para Medicaid completo imediatamente. Os planos do Mercado ACA exigem presença legal; pessoas indocumentadas não podem comprá-los.",
+        "ht": "Adilt jeneralman bezwen estati legal pou 5+ ane pou Medicaid konplè. EKSEPSYON ENPÒTAN: (1) Medicaid Ijans kouvri ijans ak akouchman pou NENPÒT moun kèlkeswa estati a. (2) RI ofri RIte Care a tout timoun ak fanm ansent ki kalifye dapre revni san konsiderasyon estati imigrasyon (finanse pa eta a). (3) Refijye/azile kalifye pou Medicaid konplè imedyatman. Plan Mache ACA mande prezans legal; moun san papye pa ka achte yo."
+      },
+      "documents": {
+        "en": "ID, proof of income, proof of RI residence. Pregnancy or birth records if applying for prenatal care.",
+        "es": "Identificación, comprobante de ingresos, prueba de residencia en RI. Registros de embarazo o nacimiento si solicita atención prenatal.",
+        "pt": "Identificação, comprovante de renda, comprovante de residência em RI. Registros de gravidez ou nascimento se solicitar pré-natal.",
+        "ht": "Idantifikasyon, prèv revni, prèv ke ou rete nan RI. Dosye gwosès oswa nesans si w ap aplike pou swen prenatal."
+      },
+      "howToApply": {
+        "en": "Apply at healthyrhode.ri.gov (Medicaid) or healthsourceri.com (marketplace). Both portals share an application. Phone: HealthSource RI (855) 840-4774; HealthyRhode (855) 697-4347. Free in-person navigators are available.",
+        "es": "Solicite en healthyrhode.ri.gov (Medicaid) o healthsourceri.com (Mercado). Los dos portales comparten una sola solicitud. Teléfono: HealthSource RI (855) 840-4774; HealthyRhode (855) 697-4347. Hay navegadores gratuitos en persona disponibles.",
+        "pt": "Inscreva-se em healthyrhode.ri.gov (Medicaid) ou healthsourceri.com (Mercado). Os dois portais compartilham um único formulário. Telefone: HealthSource RI (855) 840-4774; HealthyRhode (855) 697-4347. Navegadores gratuitos presenciais disponíveis.",
+        "ht": "Aplike nan healthyrhode.ri.gov (Medicaid) oswa healthsourceri.com (Mache). De pòtay yo pataje yon sèl aplikasyon. Telefòn: HealthSource RI (855) 840-4774; HealthyRhode (855) 697-4347. Navigatè gratis an pèsòn disponib."
+      },
+      "links": [
+        { "label": "HealthSource RI", "url": "https://healthsourceri.com" },
+        { "label": "HealthyRhode (apply)", "url": "https://healthyrhode.ri.gov" },
+        { "label": "RI EOHHS — Medicaid", "url": "https://eohhs.ri.gov/consumer/find-services-program/medicaid" }
+      ]
+    },
+    {
+      "id": "medicare",
+      "icon": "health",
+      "name": {
+        "en": "Medicare",
+        "es": "Medicare",
+        "pt": "Medicare",
+        "ht": "Medicare"
+      },
+      "summary": {
+        "en": "Federal health insurance for people 65+ and some younger people with disabilities. Has multiple parts: A (hospital), B (doctor), C (private plans), D (drugs).",
+        "es": "Seguro médico federal para personas de 65+ y algunas personas más jóvenes con discapacidad. Tiene varias partes: A (hospital), B (médico), C (planes privados), D (medicamentos).",
+        "pt": "Plano de saúde federal para pessoas 65+ e alguns mais jovens com deficiência. Tem várias partes: A (hospital), B (médico), C (planos privados), D (medicamentos).",
+        "ht": "Asirans sante federal pou moun 65+ ak kèk moun ki pi jèn ki gen andikap. Li gen plizyè pati: A (lopital), B (doktè), C (plan prive), D (medikaman)."
+      },
+      "eligibility": {
+        "en": "Age 65+, OR under 65 with a qualifying disability after 24 months on SSDI, OR ESRD/ALS.",
+        "es": "65 años o más, O menores de 65 con una discapacidad calificada después de 24 meses con SSDI, O ESRD/ALS.",
+        "pt": "65+, OU menores de 65 com deficiência qualificada após 24 meses no SSDI, OU ESRD/ALS.",
+        "ht": "65 ane oswa plis, OUBYEN mwens pase 65 ak yon andikap kalifye apre 24 mwa sou SSDI, OUBYEN ESRD/ALS."
+      },
+      "immigrationNote": {
+        "en": "Lawful Permanent Residents (green card holders) generally must have 5+ years of U.S. residence AND have worked (or a spouse worked) ~10 years to get premium-free Part A. Otherwise they can BUY in. People without lawful status are not eligible for Medicare. RI's SHIP counselors give free, unbiased help: (401) 462-4444.",
+        "es": "Los residentes permanentes legales generalmente necesitan 5+ años de residencia en EE.UU. Y haber trabajado (o un cónyuge) ~10 años para obtener la Parte A sin prima. Si no, pueden comprarla. Las personas sin estatus legal no son elegibles para Medicare. Los consejeros SHIP de RI ofrecen ayuda gratuita: (401) 462-4444.",
+        "pt": "Residentes permanentes legais geralmente precisam de 5+ anos de residência nos EUA E ter trabalhado (ou cônjuge) ~10 anos para Parte A sem prêmio. Caso contrário, podem comprar. Pessoas sem status legal não são elegíveis para Medicare. Os conselheiros SHIP de RI dão ajuda gratuita: (401) 462-4444.",
+        "ht": "Rezidan Pèmanan Legal jeneralman bezwen 5+ ane rezidans Ozetazini E te travay (oswa yon mari/madanm te travay) ~10 ane pou jwenn Pati A san prim. Sinon yo ka achte l. Moun san estati legal pa kalifye pou Medicare. Konseye SHIP nan RI bay èd gratis: (401) 462-4444."
+      },
+      "documents": {
+        "en": "Social Security number, green card or proof of citizenship, work history, current health insurance info.",
+        "es": "Número de Seguro Social, tarjeta verde o prueba de ciudadanía, historial laboral, información del seguro médico actual.",
+        "pt": "Número de Seguro Social, green card ou comprovante de cidadania, histórico de trabalho, informações do plano atual.",
+        "ht": "Nimewo Sekirite Sosyal, kat vèt oswa prèv sitwayènte, istwa travay, enfòmasyon asirans sante kounye a."
+      },
+      "howToApply": {
+        "en": "Most people are auto-enrolled at 65. Otherwise sign up at ssa.gov or call (800) 772-1213. Initial enrollment: 3 months before through 3 months after your 65th birthday.",
+        "es": "La mayoría se inscribe automáticamente a los 65. De lo contrario, inscríbase en ssa.gov o llame al (800) 772-1213. Inscripción inicial: 3 meses antes hasta 3 meses después de cumplir 65.",
+        "pt": "A maioria é inscrita automaticamente aos 65. Caso contrário, inscreva-se em ssa.gov ou ligue (800) 772-1213. Inscrição inicial: 3 meses antes até 3 meses depois dos 65.",
+        "ht": "Pifò moun enskri otomatikman a 65 an. Sinon, enskri sou ssa.gov oswa rele (800) 772-1213. Enskripsyon inisyal: 3 mwa anvan rive 3 mwa apre fèt 65 ane w."
+      },
+      "links": [
+        { "label": "Medicare.gov", "url": "https://www.medicare.gov" },
+        { "label": "RI SHIP (free counseling)", "url": "https://oha.ri.gov/programs-services/senior-health-insurance-program-ship" }
+      ]
+    },
+    {
+      "id": "liheap",
+      "icon": "energy",
+      "name": {
+        "en": "LIHEAP (Heating & Cooling Help)",
+        "es": "LIHEAP (Ayuda de calefacción y aire)",
+        "pt": "LIHEAP (Ajuda de aquecimento/AC)",
+        "ht": "LIHEAP (Èd chofaj ak AC)"
+      },
+      "summary": {
+        "en": "Help paying heating and utility bills, especially in winter. The benefit goes directly to your utility company. Some cooling assistance available in summer.",
+        "es": "Ayuda para pagar facturas de calefacción y servicios públicos, especialmente en invierno. El beneficio se paga directamente a la empresa de servicios. En verano hay algo de ayuda con aire acondicionado.",
+        "pt": "Ajuda para pagar contas de aquecimento e serviços públicos, especialmente no inverno. O benefício vai direto para a concessionária. Há alguma ajuda para refrigeração no verão.",
+        "ht": "Èd pou peye bòdwo chofaj ak sèvis piblik, sitou nan livè. Benefis la ale dirèkteman bay konpayi sèvis ou. Genyen kèk èd pou AC nan ete."
+      },
+      "eligibility": {
+        "en": "Income up to ~60% of state median. Renters and homeowners both qualify. Higher priority for elderly, disabled, and households with young children.",
+        "es": "Ingreso hasta ~60% de la mediana estatal. Inquilinos y propietarios califican. Prioridad para ancianos, discapacitados y hogares con niños pequeños.",
+        "pt": "Renda até ~60% da mediana estadual. Inquilinos e proprietários se qualificam. Prioridade para idosos, deficientes e famílias com crianças pequenas.",
+        "ht": "Revni jiska ~60% medyàn eta a. Lokatè ak pwopriyetè kalifye. Priyorite pou granmoun aje, andikape, ak fanmi ak ti timoun."
+      },
+      "immigrationNote": {
+        "en": "LIHEAP does NOT require Social Security numbers or immigration documentation for the household. Most immigrant families qualify if income-eligible. The bill assistance does not count as a 'public charge'.",
+        "es": "LIHEAP NO requiere números de Seguro Social ni documentación migratoria. La mayoría de familias inmigrantes califican si reúnen los requisitos de ingresos. La ayuda no cuenta como 'carga pública'.",
+        "pt": "LIHEAP NÃO exige número de Seguro Social nem documentação migratória. A maioria das famílias imigrantes se qualifica se elegível por renda. A ajuda não conta como 'public charge'.",
+        "ht": "LIHEAP PA mande nimewo Sekirite Sosyal ni dokiman imigrasyon. Pifò fanmi imigran kalifye si revni yo kalifye. Èd la pa konte kòm 'public charge'."
+      },
+      "documents": {
+        "en": "Most recent heating bill, ID for adults, proof of income for last month, lease or mortgage statement.",
+        "es": "Factura de calefacción más reciente, identificación de adultos, prueba de ingresos del último mes, contrato de alquiler o hipoteca.",
+        "pt": "Conta de aquecimento mais recente, identificação dos adultos, comprovante de renda do último mês, contrato de aluguel ou hipoteca.",
+        "ht": "Dènye bòdwo chofaj, idantifikasyon adilt yo, prèv revni mwa pase a, kontra lwaye oswa ipotèk."
+      },
+      "howToApply": {
+        "en": "Apply through a Community Action Program (CAP) agency. In Providence: ProCAP at (401) 273-2000. Open enrollment usually November–April.",
+        "es": "Solicite a través de una agencia del Programa de Acción Comunitaria (CAP). En Providence: ProCAP al (401) 273-2000. Inscripción usualmente noviembre-abril.",
+        "pt": "Inscreva-se através de uma agência CAP (Community Action Program). Em Providence: ProCAP (401) 273-2000. Inscrição geralmente nov.–abr.",
+        "ht": "Aplike atravè yon ajans Community Action Program (CAP). Nan Providence: ProCAP nan (401) 273-2000. Enskripsyon souvan novanm-avril."
+      },
+      "links": [
+        { "label": "RI Office of Energy Resources", "url": "https://energy.ri.gov/programs/heating-assistance" },
+        { "label": "ProCAP Providence", "url": "https://procapri.org" }
+      ]
+    },
+    {
+      "id": "rihousing",
+      "icon": "house",
+      "name": {
+        "en": "Section 8 / RIHousing (Rental help)",
+        "es": "Sección 8 / RIHousing (Ayuda de alquiler)",
+        "pt": "Seção 8 / RIHousing (Ajuda de aluguel)",
+        "ht": "Seksyon 8 / RIHousing (Èd lwaye)"
+      },
+      "summary": {
+        "en": "Affordable housing waitlists, rental assistance, and housing voucher information. Vouchers and affordable apartments cap your rent at ~30% of income. Waiting lists are long but worth joining early.",
+        "es": "Listas de espera para vivienda asequible, asistencia de alquiler e información sobre vales de vivienda. Los vales y apartamentos asequibles limitan el alquiler al ~30% del ingreso. Las listas de espera son largas; vale la pena unirse pronto.",
+        "pt": "Listas de espera para moradia acessível, auxílio aluguel e informações sobre vouchers. Os vouchers e apartamentos acessíveis limitam o aluguel a ~30% da renda. Listas de espera são longas; vale a pena entrar cedo.",
+        "ht": "Lis datant pou lojman abòdab, èd lwaye, ak enfòmasyon sou bon lojman. Bon ak apatman abòdab limite lwaye w a ~30% revni w. Lis datant yo long men li vo pou enskri bonè."
+      },
+      "eligibility": {
+        "en": "Income below specific limits (varies by family size and county). Priority for elderly, disabled, and homeless households.",
+        "es": "Ingreso por debajo de límites específicos (varía por tamaño de familia y condado). Prioridad para ancianos, discapacitados y hogares sin vivienda.",
+        "pt": "Renda abaixo de limites específicos (varia por tamanho da família e condado). Prioridade para idosos, deficientes e desabrigados.",
+        "ht": "Revni anba limit espesifik (depann gwosè fanmi ak konte). Priyorite pou granmoun aje, andikape, ak san kay."
+      },
+      "immigrationNote": {
+        "en": "At least one household member must have eligible immigration status (citizen, LPR, refugee, asylee, etc.). MIXED-STATUS families CAN apply — the subsidy is prorated based on the number of eligible members. Undocumented family members will not be reported as a result of applying.",
+        "es": "Al menos un miembro del hogar debe tener estatus migratorio elegible (ciudadano, LPR, refugiado, asilado, etc.). Las familias de ESTATUS MIXTO PUEDEN solicitar — el subsidio se prorratea según el número de miembros elegibles. Los miembros indocumentados no son reportados por solicitar.",
+        "pt": "Pelo menos um membro do agregado precisa ter status migratório elegível (cidadão, LPR, refugiado, asilado etc.). Famílias de STATUS MISTO PODEM aplicar — o subsídio é proporcional ao número de membros elegíveis. Membros indocumentados não são reportados por causa do pedido.",
+        "ht": "Omwen yon manm kay la dwe gen estati imigrasyon ki kalifye (sitwayen, LPR, refijye, azile, eltr.). Fanmi ki gen ESTATI MELANJE KAPAB aplike — sibvansyon an pwopòsyonèl ak kantite manm ki kalifye. Manm san papye yo pa rapòte paske yo aplike."
+      },
+      "documents": {
+        "en": "ID for all members, Social Security numbers (for those who have them), proof of income, current lease.",
+        "es": "Identificación de todos los miembros, números de Seguro Social (de quienes los tengan), prueba de ingresos, contrato actual.",
+        "pt": "Identificação de todos os membros, SSN (de quem tiver), comprovante de renda, contrato atual.",
+        "ht": "Idantifikasyon pou tout manm, nimewo Sekirite Sosyal (pou moun ki genyen), prèv revni, kontra lwaye aktyèl."
+      },
+      "howToApply": {
+        "en": "Apply at rihousing.com or your local public housing authority. Providence Housing Authority: (401) 751-6400.",
+        "es": "Solicite en rihousing.com o en su autoridad local de vivienda. Providence Housing Authority: (401) 751-6400.",
+        "pt": "Inscreva-se em rihousing.com ou na autoridade habitacional local. Providence Housing Authority: (401) 751-6400.",
+        "ht": "Aplike sou rihousing.com oswa nan otorite lojman lokal ou. Providence Housing Authority: (401) 751-6400."
+      },
+      "links": [
+        { "label": "RIHousing", "url": "https://www.rihousing.com" },
+        { "label": "Providence Housing Authority", "url": "https://www.provhousing.org" }
+      ]
+    },
+    {
+      "id": "ri-works",
+      "icon": "money",
+      "name": {
+        "en": "RI Works (TANF cash assistance)",
+        "es": "RI Works (Asistencia en efectivo TANF)",
+        "pt": "RI Works (Auxílio em dinheiro TANF)",
+        "ht": "RI Works (Èd lajan TANF)"
+      },
+      "summary": {
+        "en": "Monthly cash payment plus job training and child care for very low-income families with children. Lifetime limit of 48 months for adults.",
+        "es": "Pago mensual en efectivo más capacitación laboral y cuidado infantil para familias con niños y muy bajos ingresos. Límite de por vida de 48 meses para adultos.",
+        "pt": "Pagamento mensal em dinheiro, capacitação profissional e cuidado infantil para famílias de muito baixa renda com filhos. Limite vitalício de 48 meses para adultos.",
+        "ht": "Peman lajan chak mwa plis fòmasyon travay ak gadri pou fanmi ki gen revni trè ba ak timoun. Limit pou tout lavi 48 mwa pou adilt."
+      },
+      "eligibility": {
+        "en": "Family with at least one child under 18 (or pregnant); very low income; must participate in work or training activities.",
+        "es": "Familia con al menos un menor de 18 años (o embarazada); ingreso muy bajo; debe participar en trabajo o capacitación.",
+        "pt": "Família com pelo menos uma criança menor de 18 (ou gestante); renda muito baixa; deve participar de trabalho/capacitação.",
+        "ht": "Fanmi ak omwen yon timoun anba 18 an (oswa ansent); revni trè ba; dwe patisipe nan travay oswa fòmasyon."
+      },
+      "immigrationNote": {
+        "en": "Adults generally need lawful status for 5+ years, with exceptions for refugees and asylees. CRITICAL: U.S.-citizen children CAN receive RI Works through a 'child-only' grant even if their parents are undocumented — the parents are not on the case and their info is not reported to immigration.",
+        "es": "Los adultos generalmente necesitan estatus legal por 5+ años, con excepciones para refugiados y asilados. IMPORTANTE: Los hijos ciudadanos de EE.UU. PUEDEN recibir RI Works mediante una 'subvención solo para niños' aunque los padres sean indocumentados — los padres no están en el caso y su información no se reporta a inmigración.",
+        "pt": "Adultos geralmente precisam de status legal por 5+ anos, com exceções para refugiados e asilados. IMPORTANTE: Filhos cidadãos americanos PODEM receber RI Works via 'child-only grant' mesmo se os pais forem indocumentados — os pais não fazem parte do caso e seus dados não são reportados à imigração.",
+        "ht": "Adilt jeneralman bezwen estati legal pou 5+ ane, ak eksepsyon pou refijye ak azile. ENPÒTAN: Timoun ki sitwayen ameriken KAPAB resevwa RI Works atravè yon 'child-only grant' menm si paran yo san papye — paran yo pa nan dosye a e enfòmasyon yo pa rapòte bay imigrasyon."
+      },
+      "documents": {
+        "en": "ID, Social Security numbers (for those applying), proof of income, rent, child's birth certificate.",
+        "es": "Identificación, números de Seguro Social (de los solicitantes), prueba de ingresos, alquiler, acta de nacimiento del niño.",
+        "pt": "Identificação, número de SSN (de quem solicita), comprovante de renda, aluguel, certidão de nascimento da criança.",
+        "ht": "Idantifikasyon, nimewo Sekirite Sosyal (pou moun k ap aplike), prèv revni, lwaye, batistè timoun."
+      },
+      "howToApply": {
+        "en": "Apply at healthyrhode.ri.gov or any DHS office.",
+        "es": "Solicite en healthyrhode.ri.gov o en cualquier oficina de DHS.",
+        "pt": "Inscreva-se em healthyrhode.ri.gov ou em qualquer escritório do DHS.",
+        "ht": "Aplike sou healthyrhode.ri.gov oswa nan nenpòt biwo DHS."
+      },
+      "links": [
+        { "label": "RI DHS — RI Works", "url": "https://dhs.ri.gov/programs-and-services/cash-assistance" }
+      ]
+    },
+    {
+      "id": "vita-itin",
+      "icon": "money",
+      "name": {
+        "en": "Free Tax Help (VITA) & ITIN",
+        "es": "Ayuda gratuita con impuestos (VITA) e ITIN",
+        "pt": "Ajuda fiscal gratuita (VITA) e ITIN",
+        "ht": "Èd taks gratis (VITA) ak ITIN"
+      },
+      "summary": {
+        "en": "Free, IRS-certified tax preparation for low-to-moderate income filers. ITINs let people without SSNs file taxes — important for kids' tax credits and immigration records.",
+        "es": "Preparación de impuestos gratuita y certificada por el IRS para personas con ingresos bajos o moderados. Los ITINs permiten a personas sin SSN declarar impuestos — importante para créditos por hijos y antecedentes migratorios.",
+        "pt": "Preparação de impostos gratuita e certificada pelo IRS para renda baixa-moderada. ITINs permitem a quem não tem SSN declarar impostos — importante para créditos por dependentes e histórico migratório.",
+        "ht": "Preparasyon taks gratis sètifye pa IRS pou moun ki gen revni ki ba oswa modere. ITIN pèmèt moun ki pa gen SSN deklare taks — enpòtan pou kredi taks pou timoun ak istwa imigrasyon."
+      },
+      "eligibility": {
+        "en": "Most years, household income under ~$67,000. Free for seniors and people with disabilities at any income.",
+        "es": "Generalmente, ingreso del hogar menor de ~$67,000. Gratis para adultos mayores y personas con discapacidad sin importar ingresos.",
+        "pt": "Em geral, renda familiar abaixo de ~$67.000. Gratuito para idosos e pessoas com deficiência em qualquer renda.",
+        "ht": "Jeneralman, revni kay anba ~$67,000. Gratis pou granmoun aje ak moun andikape kèlkeswa revni."
+      },
+      "immigrationNote": {
+        "en": "ITIN filing is OPEN to anyone, regardless of immigration status. The IRS does not share return data with immigration enforcement under current law. Filing taxes builds a tax history (helpful for some immigration cases) and may unlock the federal Child Tax Credit for qualifying U.S.-citizen children.",
+        "es": "La declaración con ITIN está ABIERTA a cualquier persona sin importar estatus migratorio. El IRS no comparte datos de declaraciones con migración bajo la ley actual. Declarar crea historial fiscal (útil en algunos casos migratorios) y puede dar acceso al Crédito Tributario por Hijos para hijos ciudadanos.",
+        "pt": "Declaração com ITIN é ABERTA a qualquer pessoa, independente de status migratório. A receita federal (IRS) não compartilha dados com imigração sob a lei atual. Declarar cria histórico fiscal (útil em alguns casos migratórios) e pode liberar o Child Tax Credit para filhos cidadãos.",
+        "ht": "Deklarasyon ITIN OUVÈ pou nenpòt moun, kèlkeswa estati imigrasyon. IRS pa pataje done deklarasyon ak imigrasyon dapre lwa aktyèl la. Deklare taks bati yon istwa fiskal (itil nan kèk ka imigrasyon) e ka louvri Child Tax Credit pou timoun ki sitwayen."
+      },
+      "documents": {
+        "en": "Photo ID, SSN or ITIN cards for everyone on the return, all W-2s and 1099s, prior year's return if available.",
+        "es": "Identificación con foto, tarjetas SSN o ITIN de todos en la declaración, todos los W-2 y 1099, declaración del año anterior si la tiene.",
+        "pt": "Documento com foto, cartões SSN ou ITIN de todos na declaração, W-2s e 1099s, declaração do ano anterior se tiver.",
+        "ht": "ID ak foto, kat SSN oswa ITIN pou tout moun nan deklarasyon an, tout W-2 ak 1099, deklarasyon ane pase si w genyen."
+      },
+      "howToApply": {
+        "en": "Find a free VITA site at irs.treasury.gov/freetaxprep or call 211. RI sites typically open January–April. Dorcas International also offers ITIN help year-round.",
+        "es": "Encuentre un sitio VITA gratuito en irs.treasury.gov/freetaxprep o llame al 211. Los sitios de RI suelen abrir de enero a abril. Dorcas International también ofrece ayuda con ITIN todo el año.",
+        "pt": "Encontre um local VITA gratuito em irs.treasury.gov/freetaxprep ou ligue 211. Locais em RI geralmente abrem jan.–abr. Dorcas International também oferece ajuda com ITIN o ano todo.",
+        "ht": "Jwenn yon sit VITA gratis nan irs.treasury.gov/freetaxprep oswa rele 211. Sit RI yo louvri jan.–avril. Dorcas International ofri èd ITIN tout ane a tou."
+      },
+      "links": [
+        { "label": "Find a VITA site", "url": "https://irs.treasury.gov/freetaxprep/" },
+        { "label": "RI 211", "url": "https://www.211ri.org" }
+      ]
+    },
+    {
+      "id": "ids",
+      "icon": "id",
+      "name": {
+        "en": "ID options regardless of immigration status (IDPVD + Driver Privilege Card)",
+        "es": "Opciones de identificación sin importar el estatus migratorio (IDPVD + Tarjeta Privilegio de Conducir)",
+        "pt": "Opções de identificação independentemente do status migratório (IDPVD + Driver Privilege Card)",
+        "ht": "Opsyon ID kèlkeswa estati imigrasyon (IDPVD + Driver Privilege Card)"
+      },
+      "summary": {
+        "en": "Two RI programs that let you get a usable ID without standard immigration documents: (1) IDPVD — Providence's municipal ID, accepted by city services, libraries, schools, and many local businesses. (2) Driver Privilege Card / Identification Privilege Card — RI's state-issued license or ID for people who cannot establish federal lawful presence.",
+        "es": "Dos programas en RI que permiten obtener una identificación útil sin documentos migratorios estándar: (1) IDPVD — la identificación municipal de Providence, aceptada por servicios de la ciudad, bibliotecas, escuelas y muchos negocios locales. (2) Tarjeta Privilegio de Conducir / Tarjeta Privilegio de Identificación — la licencia o identificación estatal de RI para personas que no pueden establecer presencia legal federal.",
+        "pt": "Dois programas em RI que permitem obter uma identificação utilizável sem documentos migratórios padrão: (1) IDPVD — o documento municipal de Providence, aceito por serviços da cidade, bibliotecas, escolas e muitos comércios locais. (2) Driver Privilege Card / Identification Privilege Card — a carteira ou documento estadual de RI para pessoas que não conseguem comprovar presença legal federal.",
+        "ht": "De pwogram nan RI ki pèmèt ou jwenn yon ID itilizab san dokiman imigrasyon estanda: (1) IDPVD — kat idantifikasyon minisipal Providence, aksepte pa sèvis vil la, bibliyotèk, lekòl, ak anpil biznis lokal. (2) Driver Privilege Card / Identification Privilege Card — lisans oswa ID eta RI pou moun ki pa ka etabli prezans legal federal."
+      },
+      "eligibility": {
+        "en": "IDPVD: any Providence resident with proof of identity and address. Driver Privilege Card: RI resident who cannot establish lawful U.S. presence AND filed RI taxes the prior year (or was claimed as a dependent).",
+        "es": "IDPVD: cualquier residente de Providence con prueba de identidad y domicilio. Tarjeta Privilegio de Conducir: residente de RI que no puede establecer presencia legal en EE.UU. Y presentó impuestos de RI el año anterior (o fue reclamado como dependiente).",
+        "pt": "IDPVD: qualquer morador de Providence com prova de identidade e endereço. Driver Privilege Card: morador de RI que não consegue comprovar presença legal nos EUA E declarou impostos de RI no ano anterior (ou foi declarado como dependente).",
+        "ht": "IDPVD: nenpòt rezidan Providence ak prèv idantite ak adrès. Driver Privilege Card: rezidan RI ki pa ka etabli prezans legal Ozetazini E te ranpli taks RI ane pase a (oswa yo te reklamè li kòm depandan)."
+      },
+      "immigrationNote": {
+        "en": "Both programs are EXPLICITLY designed for people who lack federal documents. Applying does not put you on a federal database. Neither card is a federal ID — they will not pass TSA/airline security. Common uses: opening a bank account, picking up children from school, identifying yourself to police, registering at a clinic, signing a lease.",
+        "es": "Ambos programas están DISEÑADOS EXPLÍCITAMENTE para personas sin documentos federales. Solicitar no le pone en una base de datos federal. Ninguna de las dos tarjetas es identificación federal — no pasan la seguridad de TSA/aerolíneas. Usos comunes: abrir una cuenta bancaria, recoger a sus hijos de la escuela, identificarse ante la policía, registrarse en una clínica, firmar un contrato de alquiler.",
+        "pt": "Ambos os programas são EXPLICITAMENTE projetados para pessoas sem documentos federais. Solicitar não coloca você em um banco de dados federal. Nenhum dos cartões é identificação federal — não passam na segurança de TSA/companhias aéreas. Usos comuns: abrir conta bancária, buscar filhos na escola, identificar-se à polícia, fazer cadastro em uma clínica, assinar um contrato de aluguel.",
+        "ht": "Toulède pwogram yo EKSPLISITMAN konsevwa pou moun ki pa gen dokiman federal. Aplike PA mete w nan yon baz done federal. Okenn nan kat yo pa yon ID federal — yo pa pase sekirite TSA/avyon. Itilizasyon kouran: louvri yon kont labank, pran timoun yo lekòl, idantifye tèt ou bay polis, enskri nan yon klinik, siyen yon kontra lwaye."
+      },
+      "documents": {
+        "en": "IDPVD: proof of identity (passport, foreign ID, consular ID accepted) and TWO proofs of Providence residency. Driver Privilege Card: tax verification letter, two forms of ID, two proofs of RI residency, plus driving knowledge/road test (waived if you have a recent valid license elsewhere).",
+        "es": "IDPVD: prueba de identidad (pasaporte, identificación extranjera, identificación consular aceptados) y DOS pruebas de residencia en Providence. Tarjeta Privilegio de Conducir: carta de verificación de impuestos, dos formas de identificación, dos pruebas de residencia en RI, más examen escrito y de manejo (se exenta si tiene una licencia válida reciente de otro lugar).",
+        "pt": "IDPVD: comprovante de identidade (passaporte, documento estrangeiro, carteira consular aceitos) e DOIS comprovantes de residência em Providence. Driver Privilege Card: carta de verificação fiscal, dois documentos de identidade, dois comprovantes de residência em RI, mais provas teórica e prática (dispensadas se tiver carteira válida recente de outro lugar).",
+        "ht": "IDPVD: prèv idantite (paspò, ID etranje, ID konsilè aksepte) ak DE prèv ke ou rete nan Providence. Driver Privilege Card: lèt verifikasyon taks, de kalite idantifikasyon, de prèv ke ou rete nan RI, plis tès konesans/wout kondui (yo pase ou si w gen yon lisans ki valid resamman lòt kote)."
+      },
+      "howToApply": {
+        "en": "IDPVD: apply in person at Providence City Hall (25 Dorrance St, Room 104). Email IDPVD@providenceri.gov or call (401) 421-2489. Cost: $5–$15 depending on age/income. Driver Privilege Card: apply at any RI DMV by appointment. Get a tax verification letter from RI Division of Taxation first. Cost: $25.",
+        "es": "IDPVD: solicite en persona en el Ayuntamiento de Providence (25 Dorrance St, Sala 104). Correo: IDPVD@providenceri.gov o llame al (401) 421-2489. Costo: $5–$15 según edad/ingresos. Tarjeta Privilegio de Conducir: solicite en cualquier DMV de RI con cita. Primero obtenga una carta de verificación de impuestos de la División de Tributación de RI. Costo: $25.",
+        "pt": "IDPVD: inscreva-se pessoalmente na prefeitura de Providence (25 Dorrance St, Sala 104). Email IDPVD@providenceri.gov ou ligue (401) 421-2489. Custo: $5–$15 dependendo da idade/renda. Driver Privilege Card: inscreva-se em qualquer DMV de RI com agendamento. Primeiro obtenha a carta de verificação fiscal da Divisão Tributária de RI. Custo: $25.",
+        "ht": "IDPVD: aplike an pèsòn nan Providence City Hall (25 Dorrance St, Sal 104). Imèl IDPVD@providenceri.gov oswa rele (401) 421-2489. Pri: $5–$15 selon laj/revni. Driver Privilege Card: aplike nan nenpòt DMV RI ak randevou. Pran yon lèt verifikasyon taks nan RI Division of Taxation anvan. Pri: $25."
+      },
+      "links": [
+        { "label": "IDPVD — City of Providence", "url": "https://www.providenceri.gov/idpvd/idpvd-application/" },
+        { "label": "RI DMV — Driver Privilege Card FAQ", "url": "https://dmv.ri.gov/licenses-permits-ids/drivers-privilege-card-identification-privilege-card-faqs" },
+        { "label": "RI Tax — DPC verification letter", "url": "https://tax.ri.gov/guidance/special-programs/driver-privilege-cards" }
       ]
     }
   ]

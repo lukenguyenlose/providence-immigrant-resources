@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06",
+  "lastUpdated": "2026-05-10",
   "city": "Providence, RI",
   "resources": [
     {
@@ -7,449 +7,776 @@
       "name": "Rhode Island Community Food Bank",
       "category": "food",
       "address": "200 Niantic Ave, Providence, RI 02907",
-      "lat": 41.7892,
-      "lng": -71.4419,
+      "lat": 41.79688,
+      "lng": -71.44023,
       "phone": "(401) 942-6325",
       "website": "https://rifoodbank.org",
-      "hours": "Mon-Fri 9am-3pm",
-      "languages": ["en", "es"],
-      "notes": "Largest food distribution hub in RI. Find a partner pantry near you on their site.",
-      "verified": false
+      "hours": "Mon-Fri 8:30am-5pm",
+      "languages": [
+        "en",
+        "es"
+      ],
+      "notes": {
+        "en": "Largest food distribution hub in RI. Find a partner pantry near you on their site.",
+        "es": "El centro de distribución de alimentos más grande de RI. Encuentre una despensa asociada cerca de usted en su sitio web.",
+        "pt": "Maior centro de distribuição de alimentos de RI. Encontre uma despensa parceira perto de você no site deles.",
+        "ht": "Pi gwo sant distribisyon manje nan RI. Jwenn yon depo manje patnè toupre w sou sit yo a."
+      }
     },
     {
       "id": "amos-house",
       "name": "Amos House",
       "category": "food",
       "address": "460 Pine St, Providence, RI 02907",
-      "lat": 41.8136,
-      "lng": -71.4145,
+      "lat": 41.81266,
+      "lng": -71.41953,
       "phone": "(401) 272-0220",
       "website": "https://amoshouse.com",
       "hours": "Meals daily; pantry hours vary",
-      "languages": ["en", "es"],
-      "notes": "Hot meals, food pantry, and case management.",
-      "verified": false
+      "languages": [
+        "en",
+        "es"
+      ],
+      "notes": {
+        "en": "Hot meals, food pantry, and case management.",
+        "es": "Comidas calientes, despensa de alimentos y gestión de casos.",
+        "pt": "Refeições quentes, despensa de alimentos e acompanhamento de casos.",
+        "ht": "Manje cho, depo manje, ak jesyon ka."
+      }
     },
     {
       "id": "mclife-pantry",
       "name": "McAuley House",
       "category": "food",
       "address": "622 Elmwood Ave, Providence, RI 02907",
-      "lat": 41.7981,
-      "lng": -71.4225,
+      "lat": 41.79496,
+      "lng": -71.42435,
       "phone": "(401) 941-9013",
       "website": "https://mcauleyri.org",
       "hours": "Mon-Fri 11:30am-1pm",
-      "languages": ["en", "es"],
-      "notes": "Free hot lunch, no questions asked.",
-      "verified": false
+      "languages": [
+        "en",
+        "es"
+      ],
+      "notes": {
+        "en": "Free lunch, no questions asked.",
+        "es": "Almuerzo gratuito, sin preguntas.",
+        "pt": "Almoço gratuito, sem perguntas.",
+        "ht": "Manje midi gratis, san poze kesyon."
+      }
     },
     {
       "id": "crossroads-housing",
       "name": "Crossroads Rhode Island",
       "category": "housing",
       "address": "160 Broad St, Providence, RI 02903",
-      "lat": 41.8175,
-      "lng": -71.4128,
+      "lat": 41.81703,
+      "lng": -71.41747,
       "phone": "(401) 521-2255",
       "website": "https://crossroadsri.org",
       "hours": "24/7 shelter intake",
-      "languages": ["en", "es", "pt"],
-      "notes": "Emergency shelter, transitional housing, and supportive services.",
-      "verified": false
-    },
-    {
-      "id": "harrington-hall",
-      "name": "Harrington Hall (House of Hope)",
-      "category": "housing",
-      "address": "Cranston, RI",
-      "lat": 41.7634,
-      "lng": -71.4376,
-      "phone": "(401) 463-3324",
-      "website": "https://houseofhopecdc.org",
-      "hours": "Evening intake",
-      "languages": ["en"],
-      "notes": "Men's emergency shelter and transitional housing pathway.",
-      "verified": false
+      "languages": [
+        "en",
+        "es",
+        "pt"
+      ],
+      "notes": {
+        "en": "Emergency shelter, transitional housing, and supportive services.",
+        "es": "Refugio de emergencia, vivienda de transición y servicios de apoyo.",
+        "pt": "Abrigo de emergência, moradia de transição e serviços de apoio.",
+        "ht": "Refij ijans, lojman tranzisyonèl, ak sèvis sipò."
+      }
     },
     {
       "id": "sojourner-house",
       "name": "Sojourner House",
       "category": "housing",
-      "address": "386 Smith St, Providence, RI 02908",
-      "lat": 41.8345,
-      "lng": -71.4225,
+      "address": "1570 Westminster St., Providence, RI 02909",
+      "lat": 41.81591,
+      "lng": -71.43557,
       "phone": "(401) 765-3232",
       "website": "https://sojournerri.org",
       "hours": "24/7 hotline",
-      "languages": ["en", "es", "pt"],
-      "notes": "Transitional housing for survivors of domestic violence; multilingual advocates.",
-      "verified": false
+      "languages": [
+        "en",
+        "es",
+        "pt"
+      ],
+      "notes": {
+        "en": "Transitional housing for survivors of domestic violence; multilingual advocates.",
+        "es": "Vivienda de transición para sobrevivientes de violencia doméstica; defensores multilingües.",
+        "pt": "Moradia de transição para sobreviventes de violência doméstica; defensores multilíngues.",
+        "ht": "Lojman tranzisyonèl pou viktim vyolans domestik; defansè ki pale plizyè lang."
+      }
     },
     {
       "id": "dorcas-intl",
       "name": "Dorcas International Institute of RI",
       "category": "legal",
       "address": "645 Elmwood Ave, Providence, RI 02907",
-      "lat": 41.7945,
-      "lng": -71.4231,
+      "lat": 41.79457,
+      "lng": -71.42414,
       "phone": "(401) 784-8600",
       "website": "https://diiri.org",
       "hours": "Mon-Fri 8:30am-5pm",
-      "languages": ["en", "es", "pt", "ht", "ar", "sw"],
-      "notes": "Immigration legal services, refugee resettlement, ESL, citizenship.",
-      "verified": false
+      "languages": [
+        "en",
+        "es",
+        "pt",
+        "ht",
+        "ar",
+        "sw"
+      ],
+      "notes": {
+        "en": "Immigration legal services, refugee resettlement, ESL, citizenship.",
+        "es": "Servicios legales de inmigración, reasentamiento de refugiados, inglés (ESL), ciudadanía.",
+        "pt": "Serviços jurídicos de imigração, reassentamento de refugiados, aulas de inglês (ESL), cidadania.",
+        "ht": "Sèvis legal imigrasyon, reyenstalasyon refijye, klas anglè (ESL), sitwayènte."
+      }
     },
     {
       "id": "progreso-latino",
       "name": "Progreso Latino",
       "category": "legal",
       "address": "626 Broad St, Central Falls, RI 02863",
-      "lat": 41.8862,
-      "lng": -71.3920,
+      "lat": 41.88845,
+      "lng": -71.38737,
       "phone": "(401) 728-5920",
-      "website": "https://progresolatino.org",
+      "website": "https://www.progresolatino.org/",
       "hours": "Mon-Fri 9am-5pm",
-      "languages": ["en", "es"],
-      "notes": "Immigration help, ESL, workforce, family services.",
-      "verified": false
+      "languages": [
+        "en",
+        "es"
+      ],
+      "notes": {
+        "en": "Immigration help, ESL, workforce, family services.",
+        "es": "Ayuda con inmigración, clases de inglés (ESL), empleo y servicios familiares.",
+        "pt": "Ajuda com imigração, aulas de inglês (ESL), trabalho e serviços familiares.",
+        "ht": "Èd pou imigrasyon, klas anglè (ESL), travay, ak sèvis fanmi."
+      }
     },
     {
       "id": "ricares-legal",
       "name": "RI Center for Justice",
       "category": "legal",
-      "address": "1 Empire Plaza, Providence, RI 02903",
-      "lat": 41.8240,
-      "lng": -71.4128,
+      "address": "1 Empire St, #410, Providence, RI 02903",
+      "lat": 41.82068,
+      "lng": -71.41481,
       "phone": "(401) 491-1101",
-      "website": "https://centerforjustice.org",
+      "website": "https://centerforjustice.org/",
       "hours": "Mon-Fri 9am-5pm",
-      "languages": ["en", "es"],
-      "notes": "Free civil legal aid for low-income Rhode Islanders.",
-      "verified": false
+      "languages": [
+        "en",
+        "es"
+      ],
+      "notes": {
+        "en": "Free civil legal aid for low-income Rhode Islanders.",
+        "es": "Ayuda legal civil gratuita para residentes de Rhode Island de bajos ingresos.",
+        "pt": "Auxílio jurídico civil gratuito para moradores de Rhode Island de baixa renda.",
+        "ht": "Èd legal sivil gratis pou rezidan Rhode Island ki gen revni ki ba."
+      }
     },
     {
       "id": "clinica-esperanza",
       "name": "Clínica Esperanza / Hope Clinic",
       "category": "health",
-      "address": "60 Valley St, Providence, RI 02909",
-      "lat": 41.8246,
-      "lng": -71.4382,
+      "address": "60 Valley St, Suite 104, Providence, RI 02909",
+      "lat": 41.81889,
+      "lng": -71.44129,
       "phone": "(401) 347-9093",
-      "website": "https://clinicaesperanza.org",
+      "website": "https://www.aplacetobehealthy.org/",
       "hours": "Mon-Thu by appointment",
-      "languages": ["en", "es"],
-      "notes": "Free primary care for uninsured adults; bilingual staff.",
-      "verified": false
+      "languages": [
+        "en",
+        "es"
+      ],
+      "notes": {
+        "en": "Free primary care for uninsured adults; multilingual staff.",
+        "es": "Atención primaria gratuita para adultos sin seguro; personal multilingüe.",
+        "pt": "Atenção primária gratuita para adultos sem seguro; equipe multilíngue.",
+        "ht": "Swen prensipal gratis pou granmoun ki pa gen asirans; staf ki pale plizyè lang."
+      }
     },
     {
       "id": "providence-chc",
       "name": "Providence Community Health Centers",
       "category": "health",
       "address": "375 Allens Ave, Providence, RI 02905",
-      "lat": 41.8024,
-      "lng": -71.4034,
+      "lat": 41.80276,
+      "lng": -71.40141,
       "phone": "(401) 444-0400",
       "website": "https://providencechc.org",
       "hours": "Mon-Fri 8am-5pm; some evenings",
-      "languages": ["en", "es", "pt", "ht"],
-      "notes": "Sliding-scale medical, dental, behavioral health. Accepts uninsured.",
-      "verified": false
+      "languages": [
+        "en",
+        "es",
+        "pt",
+        "ht"
+      ],
+      "notes": {
+        "en": "Sliding-scale medical, dental, behavioral health. Accepts uninsured.",
+        "es": "Servicios médicos, dentales y de salud mental con tarifa según ingresos. Acepta a personas sin seguro.",
+        "pt": "Serviços médicos, odontológicos e de saúde mental com tarifa proporcional à renda. Aceita pessoas sem seguro.",
+        "ht": "Sèvis medikal, dantè, ak sante mantal ak pri ki baze sou revni. Aksepte moun ki pa gen asirans."
+      }
     },
     {
       "id": "genesis-center",
       "name": "Genesis Center",
       "category": "education",
       "address": "620 Potters Ave, Providence, RI 02907",
-      "lat": 41.7906,
-      "lng": -71.4188,
+      "lat": 41.80244,
+      "lng": -71.43019,
       "phone": "(401) 781-6110",
       "website": "https://gencenter.org",
-      "hours": "Mon-Fri 8am-9pm",
-      "languages": ["en", "es", "pt", "ht"],
-      "notes": "ESL, citizenship prep, GED, workforce training, childcare.",
-      "verified": false
+      "hours": "Mon-Fri 9am-5pm",
+      "languages": [
+        "en",
+        "es",
+        "pt",
+        "ht"
+      ],
+      "notes": {
+        "en": "ESL, citizenship prep, GED, workforce training, childcare.",
+        "es": "Clases de inglés (ESL), preparación para la ciudadanía, GED, capacitación laboral y cuidado infantil.",
+        "pt": "Aulas de inglês (ESL), preparação para cidadania, GED, capacitação profissional e cuidado infantil.",
+        "ht": "Klas anglè (ESL), preparasyon pou sitwayènte, GED, fòmasyon travay, ak gadri."
+      }
     },
     {
       "id": "intl-charter",
       "name": "Providence Public Library - Adult Education",
       "category": "education",
       "address": "150 Empire St, Providence, RI 02903",
-      "lat": 41.8228,
-      "lng": -71.4156,
+      "lat": 41.82198,
+      "lng": -71.41709,
       "phone": "(401) 455-8000",
-      "website": "https://provlib.org",
+      "website": "https://provlib.org/education/adults/",
       "hours": "Hours vary by program",
-      "languages": ["en", "es", "pt"],
-      "notes": "Free ESL, citizenship classes, and computer literacy.",
-      "verified": false
+      "languages": [
+        "en",
+        "es",
+        "pt"
+      ],
+      "notes": {
+        "en": "Free ESL, citizenship classes, and computer literacy.",
+        "es": "Clases gratuitas de inglés (ESL), ciudadanía y alfabetización digital.",
+        "pt": "Aulas gratuitas de inglês (ESL), cidadania e alfabetização digital.",
+        "ht": "Klas gratis anglè (ESL), sitwayènte, ak alfabetizasyon dijital."
+      }
     },
     {
       "id": "rifli",
-      "name": "Rhode Island Family Literacy Initiative (RIFLI)",
+      "name": "Rhode Island Family Literacy Initiative (RIFLI) at Providence Public Library",
       "category": "education",
-      "address": "Multiple library sites in Providence",
-      "lat": 41.8240,
-      "lng": -71.4180,
+      "address": "150 Empire St, Providence, RI 02903",
+      "lat": 41.82198,
+      "lng": -71.41709,
       "phone": "(401) 455-8086",
-      "website": "https://rifli.org",
+      "website": "https://provlib.org/education/adults/ri-family-literacy-initiative/",
       "hours": "Day & evening classes",
-      "languages": ["en", "es", "pt", "ht"],
-      "notes": "Free ESL, civics, and digital literacy at public libraries.",
-      "verified": false
+      "languages": [
+        "en",
+        "es",
+        "pt",
+        "ht"
+      ],
+      "notes": {
+        "en": "Free ESL, civics, and digital literacy at the majority of public libraries.",
+        "es": "Clases gratuitas de inglés (ESL), civismo y alfabetización digital en la mayoría de las bibliotecas públicas.",
+        "pt": "Aulas gratuitas de inglês (ESL), civismo e alfabetização digital na maioria das bibliotecas públicas.",
+        "ht": "Klas gratis anglè (ESL), edikasyon sivik, ak alfabetizasyon dijital nan pifò bibliyotèk piblik."
+      }
     },
     {
       "id": "netwk-ri",
       "name": "netWORKri Career Center - Providence",
       "category": "employment",
-      "address": "1 Reservoir Ave, Providence, RI 02907",
-      "lat": 41.7896,
-      "lng": -71.4250,
-      "phone": "(401) 462-8900",
-      "website": "https://dlt.ri.gov/networkri",
-      "hours": "Mon-Fri 8:30am-4pm",
-      "languages": ["en", "es"],
-      "notes": "Job search help, training referrals, unemployment assistance.",
-      "verified": false
+      "address": "50 Sims Ave, Providence, RI 02909",
+      "lat": 41.82588,
+      "lng": -71.43316,
+      "phone": "(401) 680-5100",
+      "website": "https://www.careeronestop.org/LocalHelp/AmericanJobCenters/find-american-job-centers-details.aspx?location=01757&radius=25&ct=0&y=0&w=0&e=0&sortcolumns=Distance&sortdirections=ASC&curPage=1&pagesize=10&olds=0&return=1&persist=true&ajax=0&centerID=44897&dist=24.1&locationSelected=",
+      "hours": "Mon-Thu 8:00am-3:30pm; Fri 10:00am-3:30pm",
+      "languages": [
+        "en",
+        "es"
+      ],
+      "notes": {
+        "en": "Job search help, training referrals, unemployment assistance.",
+        "es": "Ayuda para buscar trabajo, referencias para capacitación y asistencia con el desempleo.",
+        "pt": "Ajuda para buscar emprego, encaminhamentos para capacitação e auxílio-desemprego.",
+        "ht": "Èd pou chèche travay, referans pou fòmasyon, èd pou chomaj."
+      }
     },
     {
       "id": "fuerza-laboral",
       "name": "Fuerza Laboral / Power of Workers",
       "category": "employment",
-      "address": "59 Garfield Ave, Central Falls, RI 02863",
-      "lat": 41.8901,
-      "lng": -71.3932,
-      "phone": "(401) 369-7008",
-      "website": "https://fuerzalaboral.org",
+      "address": "6 Chalce's Lane, Central Falls, RI 02863",
+      "lat": 41.895428,
+      "lng": -71.389953,
+      "phone": "(401) 725-2700",
+      "website": "https://www.fuerza-laboral.org/",
       "hours": "Mon-Fri 9am-5pm",
-      "languages": ["en", "es"],
-      "notes": "Worker rights, wage theft help, leadership training for immigrant workers.",
-      "verified": false
+      "languages": [
+        "en",
+        "es"
+      ],
+      "notes": {
+        "en": "Worker rights, wage theft help, leadership training for immigrant workers.",
+        "es": "Derechos laborales, ayuda con robo de salarios y capacitación de liderazgo para trabajadores inmigrantes.",
+        "pt": "Direitos trabalhistas, ajuda com roubo salarial e capacitação de liderança para trabalhadores imigrantes.",
+        "ht": "Dwa travayè, èd kont vòl salè, fòmasyon lidèchip pou travayè imigran."
+      }
     },
-
     {
       "id": "stmartin-soup",
       "name": "St. Martin de Porres Multi-Service Center",
-      "category": "food",
+      "category": "education",
       "address": "160 Cranston St, Providence, RI 02907",
-      "lat": 41.8174,
-      "lng": -71.4287,
+      "lat": 41.81453,
+      "lng": -71.42549,
       "phone": "(401) 274-6783",
-      "website": "https://stmartincenter.org",
+      "website": "https://dioceseofprovidence.org/st-martin-de-porres-center",
       "hours": "Lunch served weekdays; pantry hours vary",
-      "languages": ["en", "es"],
-      "notes": "Soup kitchen and food pantry serving the West End. Walk-in welcome.",
-      "verified": false
-    },
-    {
-      "id": "blessings-pantry",
-      "name": "Blessings Food Pantry",
-      "category": "food",
-      "address": "100 Smith St, Providence, RI 02903",
-      "lat": 41.8311,
-      "lng": -71.4154,
-      "phone": "(401) 273-1010",
-      "website": "",
-      "hours": "Wednesdays, distribution start time varies",
-      "languages": ["en", "es"],
-      "notes": "Volunteer-run pantry. ⚠️ Verify current location and schedule before referring.",
-      "verified": false
-    },
-    {
-      "id": "nourish-ri-mobile",
-      "name": "RI Community Food Bank — Mobile Pantry",
-      "category": "food",
-      "address": "Multiple stops in Providence (rotating)",
-      "lat": 41.8240,
-      "lng": -71.4128,
-      "phone": "(401) 942-6325",
-      "website": "https://rifoodbank.org/find-food/",
-      "hours": "Schedule rotates weekly — check site",
-      "languages": ["en", "es", "pt"],
-      "notes": "Pop-up food distribution. Use the RI Community Food Bank locator to find the next stop near you.",
-      "verified": false
+      "languages": [
+        "en",
+        "es"
+      ],
+      "notes": {
+        "en": "Senior center with staff dedicated to helping seniors understand healthcare and government programs.",
+        "es": "Centro para personas mayores con personal dedicado a ayudarlas a entender la atención médica y los programas gubernamentales.",
+        "pt": "Centro para idosos com equipe dedicada a ajudá-los a entender a saúde e os programas do governo.",
+        "ht": "Sant pou granmoun aje ak staf ki dedye pou ede granmoun aje yo konprann swen sante ak pwogram gouvènman."
+      }
     },
     {
       "id": "providence-rescue",
       "name": "Providence Rescue Mission",
       "category": "food",
       "address": "627 Cranston St, Providence, RI 02907",
-      "lat": 41.8094,
-      "lng": -71.4329,
-      "phone": "(401) 274-7900",
+      "lat": 41.80666,
+      "lng": -71.43615,
+      "phone": "(401) 274-8861",
       "website": "https://providencerescuemission.org",
       "hours": "Daily meals; pantry by appointment",
-      "languages": ["en", "es"],
-      "notes": "Hot meals and clothing closet. Faith-based but services open to all.",
-      "verified": false
+      "languages": [
+        "en",
+        "es"
+      ],
+      "notes": {
+        "en": "Hot meals, clothing closet, and small transitional housing building. Faith-based but services open to all.",
+        "es": "Comidas calientes, ropería y un edificio pequeño de vivienda de transición. De base religiosa, pero los servicios están abiertos a todos.",
+        "pt": "Refeições quentes, banco de roupas e um pequeno prédio de moradia de transição. De base religiosa, mas os serviços estão abertos a todos.",
+        "ht": "Manje cho, plak rad, ak yon ti bilding lojman tranzisyonèl. Baze sou lafwa men sèvis yo louvri pou tout moun."
+      }
     },
     {
       "id": "house-of-hope-cdc",
       "name": "House of Hope CDC",
       "category": "housing",
-      "address": "521 Main St, Warren, RI 02885",
-      "lat": 41.7311,
-      "lng": -71.2828,
+      "address": "3188 Post Rd, Warwick, RI 02886",
+      "lat": 41.69929,
+      "lng": -71.45514,
       "phone": "(401) 463-3324",
-      "website": "https://houseofhopecdc.org",
+      "website": "https://thehouseofhopecdc.org/",
       "hours": "Mon-Fri 9am-5pm",
-      "languages": ["en", "es"],
-      "notes": "Outreach to people experiencing homelessness; transitional housing pipelines. Serves the Providence area despite Warren HQ.",
-      "verified": false
+      "languages": [
+        "en",
+        "es"
+      ],
+      "notes": {
+        "en": "Outreach to people experiencing homelessness; transitional housing pipelines. Serves the whole state of Rhode Island.",
+        "es": "Servicios de acercamiento a personas sin hogar; vías hacia vivienda de transición. Atiende a todo el estado de Rhode Island.",
+        "pt": "Serviços de divulgação para pessoas em situação de rua; encaminhamento para moradia de transição. Atende todo o estado de Rhode Island.",
+        "ht": "Sèvis pou moun ki san kay; chemen pou lojman tranzisyonèl. Sèvi tout eta Rhode Island."
+      }
     },
     {
       "id": "family-life-center",
       "name": "Open Doors RI",
       "category": "housing",
       "address": "485 Plainfield St, Providence, RI 02909",
-      "lat": 41.8186,
-      "lng": -71.4538,
+      "lat": 41.81344,
+      "lng": -71.45426,
       "phone": "(401) 781-5808",
       "website": "https://opendoorsri.org",
       "hours": "Mon-Fri 9am-5pm",
-      "languages": ["en", "es"],
-      "notes": "Reentry housing and support for people leaving incarceration; transitional housing for adults rebuilding.",
-      "verified": false
+      "languages": [
+        "en",
+        "es"
+      ],
+      "notes": {
+        "en": "Reentry housing and support for people leaving incarceration; transitional support network for adults rebuilding.",
+        "es": "Vivienda de reingreso y apoyo para personas que salen de la cárcel; red de apoyo de transición para adultos que se reconstruyen.",
+        "pt": "Moradia de reinserção e apoio para pessoas que estão saindo do cárcere; rede de apoio de transição para adultos reconstruindo a vida.",
+        "ht": "Lojman ak sipò pou moun ki ap soti nan prizon; rezo sipò tranzisyonèl pou adilt k ap rekonstwi lavi yo."
+      }
     },
     {
       "id": "emmanuel-house",
       "name": "Emmanuel House (via Amos House)",
       "category": "housing",
-      "address": "Providence, RI",
-      "lat": 41.8201,
-      "lng": -71.4187,
-      "phone": "(401) 272-0220",
-      "website": "https://amoshouse.com",
+      "address": "239 Public St, Providence, RI 02905",
+      "lat": 41.80707,
+      "lng": -71.40866,
+      "phone": "(401) 421-7888",
+      "website": "https://dioceseofprovidence.org/homeless-shelter",
       "hours": "Intake via Amos House",
-      "languages": ["en", "es"],
-      "notes": "Transitional housing for men in recovery; intake through Amos House. Address withheld for resident privacy — call first.",
-      "verified": false
+      "languages": [
+        "en",
+        "es"
+      ],
+      "notes": {
+        "en": "Transitional housing for men and women on separated floors; intake through Amos House.",
+        "es": "Vivienda de transición para hombres y mujeres en pisos separados; admisión a través de Amos House.",
+        "pt": "Moradia de transição para homens e mulheres em andares separados; entrada pela Amos House.",
+        "ht": "Lojman tranzisyonèl pou gason ak fanm sou etaj separe; antre atravè Amos House."
+      }
     },
     {
       "id": "ri-legal-services",
       "name": "Rhode Island Legal Services",
       "category": "legal",
-      "address": "56 Pine St, Providence, RI 02903",
-      "lat": 41.8202,
-      "lng": -71.4099,
+      "address": "56 Pine St, 4th floor, Providence, RI 02903",
+      "lat": 41.82287,
+      "lng": -71.40951,
       "phone": "(401) 274-2652",
       "website": "https://rils.org",
       "hours": "Mon-Fri 8:30am-5pm",
-      "languages": ["en", "es", "pt"],
-      "notes": "Free civil legal aid: housing, family, public benefits. Statewide intake line.",
-      "verified": false
+      "languages": [
+        "en",
+        "es",
+        "pt"
+      ],
+      "notes": {
+        "en": "Free civil legal aid: housing, family, public benefits. Statewide intake line. Call for supported languages.",
+        "es": "Ayuda legal civil gratuita: vivienda, familia, beneficios públicos. Línea de admisión estatal. Llame para conocer los idiomas disponibles.",
+        "pt": "Auxílio jurídico civil gratuito: habitação, família, benefícios públicos. Linha estadual de atendimento. Ligue para saber os idiomas atendidos.",
+        "ht": "Èd legal sivil gratis: lojman, fanmi, benefis piblik. Liy admisyon pou tout eta a. Rele pou konnen ki lang yo sipòte."
+      }
     },
     {
       "id": "ri-bar-pro-bono",
       "name": "RI Bar Association Pro Bono Program",
       "category": "legal",
       "address": "115 Cedar St, Providence, RI 02903",
-      "lat": 41.8137,
-      "lng": -71.4123,
+      "lat": 41.82486,
+      "lng": -71.42446,
       "phone": "(401) 421-7758",
-      "website": "https://ribar.com",
+      "website": "https://ribar.com/?pg=vlpprobonoprograms",
       "hours": "Mon-Fri 9am-5pm",
-      "languages": ["en"],
-      "notes": "Volunteer attorney referrals for low-income RI residents. Some attorneys take immigration matters.",
-      "verified": false
+      "languages": [
+        "en"
+      ],
+      "notes": {
+        "en": "Volunteer lawyer program. Volunteer attorney referrals for low-income RI residents. Some attorneys take immigration matters.",
+        "es": "Programa de abogados voluntarios. Referencias a abogados voluntarios para residentes de RI de bajos ingresos. Algunos abogados aceptan casos de inmigración.",
+        "pt": "Programa de advogados voluntários. Encaminhamentos para advogados voluntários para moradores de RI de baixa renda. Alguns advogados aceitam casos de imigração.",
+        "ht": "Pwogram avoka volontè. Referans avoka volontè pou rezidan RI ki gen revni ki ba. Kèk avoka pran ka imigrasyon."
+      }
     },
     {
       "id": "aclu-ri",
       "name": "ACLU of Rhode Island",
       "category": "legal",
-      "address": "128 Dorrance St, Suite 220, Providence, RI 02903",
-      "lat": 41.8224,
-      "lng": -71.4115,
+      "address": "128 Dorrance St, #400, Providence, RI 02903",
+      "lat": 41.82239,
+      "lng": -71.40993,
       "phone": "(401) 831-7171",
       "website": "https://riaclu.org",
       "hours": "Mon-Fri 9am-5pm",
-      "languages": ["en", "es"],
-      "notes": "Civil rights advocacy and Know Your Rights resources. Not a direct-service immigration provider, but useful for rights questions.",
-      "verified": false
+      "languages": [
+        "en",
+        "es"
+      ],
+      "notes": {
+        "en": "Civil rights advocacy and Know Your Rights resources. Not a direct-service immigration provider, but useful for rights questions.",
+        "es": "Defensa de derechos civiles y recursos para conocer sus derechos. No es un proveedor de servicios directos de inmigración, pero útil para preguntas sobre derechos.",
+        "pt": "Defesa de direitos civis e recursos sobre 'conheça seus direitos'. Não presta serviços diretos de imigração, mas é útil para questões de direitos.",
+        "ht": "Defans dwa sivil ak resous 'Konnen Dwa Ou'. Se pa yon sèvis dirèk pou imigrasyon, men li itil pou kesyon sou dwa."
+      }
     },
     {
       "id": "family-service-ri",
       "name": "Family Service of RI",
       "category": "health",
       "address": "55 Hope St, Providence, RI 02906",
-      "lat": 41.8330,
-      "lng": -71.4022,
-      "phone": "(401) 331-1350",
+      "lat": 41.82017,
+      "lng": -71.39549,
+      "phone": "(401) 519-2280",
       "website": "https://familyserviceri.org",
       "hours": "Mon-Fri 8am-5pm; some evening",
-      "languages": ["en", "es", "pt"],
-      "notes": "Behavioral health, counseling, and crisis services for adults and children. Sliding scale.",
-      "verified": false
-    },
-    {
-      "id": "thundermist-providence",
-      "name": "Thundermist Health Center",
-      "category": "health",
-      "address": "1 Burnside St, Providence, RI 02905",
-      "lat": 41.7995,
-      "lng": -71.4071,
-      "phone": "(401) 615-2800",
-      "website": "https://thundermisthealth.org",
-      "hours": "Mon-Fri 8am-5pm; some weekends",
-      "languages": ["en", "es", "pt"],
-      "notes": "Sliding-scale primary care, dental, behavioral health, women's health. Accepts uninsured.",
-      "verified": false
+      "languages": [
+        "en",
+        "es",
+        "pt"
+      ],
+      "notes": {
+        "en": "Behavioral health, counseling, and crisis services for adults and children. Sliding scale.",
+        "es": "Salud mental, consejería y servicios de crisis para adultos y niños. Tarifa según ingresos.",
+        "pt": "Saúde mental, aconselhamento e serviços de crise para adultos e crianças. Tarifa proporcional à renda.",
+        "ht": "Sante mantal, konsèy, ak sèvis kriz pou adilt ak timoun. Pri ki baze sou revni."
+      }
     },
     {
       "id": "cape-verdean-museum",
       "name": "Cape Verdean Museum Exchange",
       "category": "cultural",
       "address": "617 Prospect St, Pawtucket, RI 02860",
-      "lat": 41.8782,
-      "lng": -71.3829,
-      "phone": "(401) 725-1859",
+      "lat": 41.86027,
+      "lng": -71.368,
+      "phone": "(401) 228-7292",
       "website": "https://capeverdeanmuseum.org",
       "hours": "By appointment / event-based",
-      "languages": ["en", "pt"],
-      "notes": "Cultural center for the Cape Verdean diaspora — exhibits, language, community events. Pawtucket-based but serves Providence community.",
-      "verified": false
+      "languages": [
+        "en",
+        "pt"
+      ],
+      "notes": {
+        "en": "Cultural center for the Cape Verdean diaspora: exhibits, language, community events. Pawtucket-based but serves Providence community.",
+        "es": "Centro cultural para la diáspora caboverdiana: exhibiciones, idioma y eventos comunitarios. Sede en Pawtucket pero atiende a la comunidad de Providence.",
+        "pt": "Centro cultural para a diáspora cabo-verdiana: exposições, idioma e eventos comunitários. Sede em Pawtucket, mas atende a comunidade de Providence.",
+        "ht": "Sant kiltirèl pou dyaspora Kapvèdyen: ekspozisyon, lang, evènman kominotè. Baze nan Pawtucket men sèvi kominote Providence la."
+      }
     },
     {
       "id": "refugee-dream-center",
       "name": "Refugee Dream Center",
       "category": "cultural",
-      "address": "807 Broad St, Providence, RI 02907",
-      "lat": 41.7965,
-      "lng": -71.4198,
+      "address": "747 Broad St, Providence, RI 02907",
+      "lat": 41.80375,
+      "lng": -71.4196,
       "phone": "(401) 300-0544",
       "website": "https://refugeedreamcenter.org",
       "hours": "Mon-Fri 9am-5pm",
-      "languages": ["en", "es", "ar", "sw", "ne"],
-      "notes": "Post-resettlement support for refugees: case management, ESL, citizenship, youth programs. Multilingual staff.",
-      "verified": false
-    },
-    {
-      "id": "centro-presente-ri",
-      "name": "Centro de las Américas (Latino cultural programs)",
-      "category": "cultural",
-      "address": "Providence, RI",
-      "lat": 41.8240,
-      "lng": -71.4128,
-      "phone": "(401) 273-1110",
-      "website": "",
-      "hours": "Hours vary",
-      "languages": ["en", "es"],
-      "notes": "Latino cultural programming and family events. ⚠️ Address and contact need verification — confirm current home before publishing.",
-      "verified": false
+      "languages": [
+        "en",
+        "fa",
+        "ps",
+        "uz"
+      ],
+      "notes": {
+        "en": "Immigrant-specific support for refugees: case management, ESL, citizenship, youth programs. Multilingual staff but confirm your language with a phone call.",
+        "es": "Apoyo específico para inmigrantes refugiados: gestión de casos, inglés (ESL), ciudadanía y programas para jóvenes. Personal multilingüe, pero confirme su idioma con una llamada.",
+        "pt": "Apoio específico para imigrantes refugiados: acompanhamento de casos, inglês (ESL), cidadania e programas juvenis. Equipe multilíngue, mas confirme seu idioma por telefone.",
+        "ht": "Sipò espesifik pou imigran refijye: jesyon ka, klas anglè (ESL), sitwayènte, pwogram pou jèn. Staf pale plizyè lang men konfime lang ou pa telefòn."
+      }
     },
     {
       "id": "african-alliance-ri",
       "name": "African Alliance of Rhode Island",
       "category": "cultural",
-      "address": "Providence, RI",
-      "lat": 41.8240,
-      "lng": -71.4128,
+      "address": "807 Broad St, Suite 121, Providence, RI, 02907",
+      "lat": 41.80199,
+      "lng": -71.41847,
       "phone": "(401) 369-7711",
       "website": "https://africanallianceri.org",
       "hours": "Hours vary",
-      "languages": ["en", "fr", "sw"],
-      "notes": "Coalition of African immigrant communities; cultural events, advocacy, and youth programs. ⚠️ Confirm current office address.",
-      "verified": false
+      "languages": [
+        "en",
+        "fr",
+        "sw",
+        "es"
+      ],
+      "notes": {
+        "en": "Coalition of African immigrant communities; cultural events, advocacy, and youth programs. ⚠️ Confirm current office address.",
+        "es": "Coalición de comunidades inmigrantes africanas; eventos culturales, defensa y programas para jóvenes. ⚠️ Confirme la dirección actual de la oficina.",
+        "pt": "Coalizão de comunidades imigrantes africanas; eventos culturais, defesa e programas juvenis. ⚠️ Confirme o endereço atual do escritório.",
+        "ht": "Kowalisyon kominote imigran Afriken; evènman kiltirèl, defans, ak pwogram pou jèn. ⚠️ Konfime adrès biwo aktyèl la."
+      }
+    },
+    {
+      "id": "aapi-history-museum",
+      "name": "AAPI History Museum",
+      "category": "cultural",
+      "address": "44 Hospital St, Providence, RI 02903",
+      "lat": 41.81714,
+      "lng": -71.41068,
+      "phone": "(401) 753-8620",
+      "website": "https://aapihistorymuseum.org",
+      "hours": "Tue/Thu/Fri 10am-5pm; Wed 11:30am-5pm; Sat 12pm-4pm; closed Sun-Mon",
+      "languages": [
+        "en"
+      ],
+      "notes": {
+        "en": "First U.S. museum dedicated to Asian American & Pacific Islander history. Operated by Cultural Society (CSEBRI). Exhibits include Chinese, Cambodian, and Vietnamese American journeys. Translations into AAPI ethnic languages in development.",
+        "es": "Primer museo de EE.UU. dedicado a la historia asiático-americana y de las islas del Pacífico. Operado por Cultural Society (CSEBRI). Las exhibiciones incluyen las trayectorias chinas, camboyanas y vietnamitas-americanas. Traducciones a idiomas étnicos AAPI en desarrollo.",
+        "pt": "Primeiro museu dos EUA dedicado à história asiático-americana e das ilhas do Pacífico. Operado pela Cultural Society (CSEBRI). Exposições incluem as jornadas chinesa, cambojana e vietnamita-americana. Traduções para idiomas étnicos AAPI em desenvolvimento.",
+        "ht": "Premye mize Ozetazini ki dedye a istwa Asiatik Ameriken ak Zile Pasifik. Opere pa Cultural Society (CSEBRI). Ekspozisyon yo enkli vwayaj Chinwa, Kanbojyen, ak Vyetnamyen Ameriken yo. Tradiksyon nan lang etnik AAPI ap devlope."
+      }
+    },
+    {
+      "id": "thundermist-woonsocket-medical",
+      "name": "Thundermist of Woonsocket — Medical & Behavioral Health",
+      "category": "health",
+      "address": "450 Clinton Street, Woonsocket, RI 02895",
+      "lat": 42.00718,
+      "lng": -71.50644,
+      "phone": "(401) 615-2800",
+      "website": "https://thundermisthealth.org",
+      "hours": "Mon-Thu 8am-8pm; Fri 9am-5pm",
+      "languages": [
+        "en",
+        "es",
+        "pt",
+        "vi",
+        "lo",
+        "zh"
+      ],
+      "notes": {
+        "en": "Sliding-scale primary care and behavioral health. Dental at separate Woonsocket location (25 John A. Cummings Way).",
+        "es": "Atención primaria y salud mental con tarifa según ingresos. El servicio dental está en otro local de Woonsocket (25 John A. Cummings Way).",
+        "pt": "Atenção primária e saúde mental com tarifa proporcional à renda. O serviço odontológico fica em outro local em Woonsocket (25 John A. Cummings Way).",
+        "ht": "Swen prensipal ak sante mantal ak pri ki baze sou revni. Sèvis dantè nan yon lòt kote nan Woonsocket (25 John A. Cummings Way)."
+      }
+    },
+    {
+      "id": "thundermist-woonsocket-dental",
+      "name": "Thundermist of Woonsocket — Dental",
+      "category": "health",
+      "address": "25 John A. Cummings Way, Woonsocket, RI 02895",
+      "lat": 42.0077,
+      "lng": -71.50477,
+      "phone": "(401) 615-2800",
+      "website": "https://thundermisthealth.org",
+      "hours": "Mon-Thu 8am-8pm; Fri 8am-5pm",
+      "languages": [
+        "en",
+        "es",
+        "pt",
+        "vi",
+        "lo",
+        "zh"
+      ],
+      "notes": {
+        "en": "Sliding-scale dental clinic. Medical/behavioral health at the separate Clinton Street location.",
+        "es": "Clínica dental con tarifa según ingresos. La atención médica y de salud mental está en otro local en Clinton Street.",
+        "pt": "Clínica odontológica com tarifa proporcional à renda. Atenção médica e de saúde mental em outro local na Clinton Street.",
+        "ht": "Klinik dantè ak pri ki baze sou revni. Swen medikal ak sante mantal nan lòt kote a sou Clinton Street."
+      }
+    },
+    {
+      "id": "thundermist-westwarwick-medical",
+      "name": "Thundermist of West Warwick — Medical & Behavioral Health",
+      "category": "health",
+      "address": "186 Providence Street, West Warwick, RI 02893",
+      "lat": 41.7132,
+      "lng": -71.51726,
+      "phone": "(401) 615-2800",
+      "website": "https://thundermisthealth.org",
+      "hours": "Mon-Thu 8am-8pm; Fri 9am-5pm",
+      "languages": [
+        "en",
+        "es",
+        "pt",
+        "vi",
+        "lo",
+        "zh"
+      ],
+      "notes": {
+        "en": "Sliding-scale primary care and behavioral health. Dental at separate West Warwick location (5 Washington Street).",
+        "es": "Atención primaria y salud mental con tarifa según ingresos. El servicio dental está en otro local de West Warwick (5 Washington Street).",
+        "pt": "Atenção primária e saúde mental com tarifa proporcional à renda. O serviço odontológico fica em outro local em West Warwick (5 Washington Street).",
+        "ht": "Swen prensipal ak sante mantal ak pri ki baze sou revni. Sèvis dantè nan yon lòt kote nan West Warwick (5 Washington Street)."
+      }
+    },
+    {
+      "id": "thundermist-westwarwick-dental",
+      "name": "Thundermist of West Warwick — Dental",
+      "category": "health",
+      "address": "5 Washington Street, West Warwick, RI 02893",
+      "lat": 41.70422,
+      "lng": -71.5246,
+      "phone": "(401) 615-2800",
+      "website": "https://thundermisthealth.org",
+      "hours": "Mon-Thu 8am-8pm; Fri 8am-5pm",
+      "languages": [
+        "en",
+        "es",
+        "pt",
+        "vi",
+        "lo",
+        "zh"
+      ],
+      "notes": {
+        "en": "Sliding-scale dental clinic. Medical/behavioral health at the separate Providence Street location.",
+        "es": "Clínica dental con tarifa según ingresos. La atención médica y de salud mental está en otro local en Providence Street.",
+        "pt": "Clínica odontológica com tarifa proporcional à renda. Atenção médica e de saúde mental em outro local na Providence Street.",
+        "ht": "Klinik dantè ak pri ki baze sou revni. Swen medikal ak sante mantal nan lòt kote a sou Providence Street."
+      }
+    },
+    {
+      "id": "thundermist-wakefield",
+      "name": "Thundermist of South County — Wakefield",
+      "category": "health",
+      "address": "1 River Street, Wakefield, RI 02879",
+      "lat": 41.44154,
+      "lng": -71.49668,
+      "phone": "(401) 615-2800",
+      "website": "https://thundermisthealth.org",
+      "hours": "Medical/BH: Mon-Thu 8am-8pm, Fri 9am-5pm; Dental: Mon-Thu 8am-8pm, Fri 8am-5pm",
+      "languages": [
+        "en",
+        "es",
+        "pt",
+        "vi",
+        "lo",
+        "zh"
+      ],
+      "notes": {
+        "en": "South County medical, behavioral health, AND dental in one location. South County Pediatrics is at the separate Narragansett site.",
+        "es": "Servicios médicos, de salud mental Y dentales del sur del condado en un solo lugar. Pediatría del sur del condado está en el local separado de Narragansett.",
+        "pt": "Serviços médicos, de saúde mental E odontológicos do South County em um só local. A pediatria do South County fica no local separado em Narragansett.",
+        "ht": "Sèvis medikal, sante mantal, AK dantè South County nan yon sèl kote. Pedyatri South County nan lòt kote a nan Narragansett."
+      }
+    },
+    {
+      "id": "thundermist-narragansett",
+      "name": "Thundermist of South County — Narragansett (Pediatrics)",
+      "category": "health",
+      "address": "360 Kingstown Road, Suite 101, Narragansett, RI 02882",
+      "lat": 41.43448,
+      "lng": -71.47924,
+      "phone": "(401) 615-2800",
+      "website": "https://thundermisthealth.org",
+      "hours": "Mon-Thu 8am-8pm; Fri 9am-5pm",
+      "languages": [
+        "en",
+        "es",
+        "pt",
+        "vi",
+        "lo",
+        "zh"
+      ],
+      "notes": {
+        "en": "South County Pediatrics — medical and behavioral health for children. Adults and dental at the Wakefield location.",
+        "es": "Pediatría del sur del condado: atención médica y de salud mental para niños. Servicios para adultos y dentales en el local de Wakefield.",
+        "pt": "Pediatria do South County — atenção médica e de saúde mental para crianças. Adultos e atendimento odontológico no local de Wakefield.",
+        "ht": "Pedyatri South County — swen medikal ak sante mantal pou timoun. Adilt ak sèvis dantè nan kote Wakefield la."
+      }
+    },
+    {
+      "id": "ri-free-clinic",
+      "name": "Rhode Island Free Clinic",
+      "category": "health",
+      "address": "655 Broad Street, Providence, RI 02907",
+      "lat": 41.80651,
+      "lng": -71.42013,
+      "phone": "(401) 274-6347",
+      "website": "https://www.rifreeclinic.org",
+      "hours": "Mon & Wed 8am-5pm (open until 8pm every 4th Mon and 2nd Wed); Tue & Thu 8am-8pm; Fri 8am-12pm. No walk-ins — call ext. 311 to schedule.",
+      "languages": [
+        "en",
+        "es"
+      ],
+      "notes": {
+        "en": "Free comprehensive medical care for uninsured RI adults: primary care, dental, behavioral health, gynecology, vision, prescriptions, labs, specialty referrals. Bilingual EN/ES throughout the org. Founded 1998.",
+        "es": "Atención médica gratuita e integral para adultos sin seguro en RI: atención primaria, dental, salud mental, ginecología, visión, recetas, laboratorios y referencias a especialistas. Bilingüe inglés/español en toda la organización. Fundada en 1998.",
+        "pt": "Atenção médica gratuita e integral para adultos sem seguro em RI: atenção primária, odontologia, saúde mental, ginecologia, visão, receitas, laboratórios e encaminhamentos a especialistas. Bilíngue inglês/espanhol em toda a organização. Fundada em 1998.",
+        "ht": "Swen medikal konplè gratis pou granmoun nan RI ki pa gen asirans: swen prensipal, dantè, sante mantal, ginekoloji, vizyon, preskripsyon, laboratwa, ak referans pou espesyalis. Bileng anglè/espayòl nan tout òganizasyon an. Fonde nan 1998."
+      }
     }
   ]
 }

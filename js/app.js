@@ -30,6 +30,13 @@ function t(key) {
   return dict[key] ?? window.TRANSLATIONS.en[key] ?? key;
 }
 
+// Pick a localized string from a {en, es, pt, ht} object, or pass through a plain string.
+function loc(field) {
+  if (!field) return "";
+  if (typeof field === "string") return field;
+  return field[state.lang] ?? field.en ?? "";
+}
+
 function applyTranslations() {
   document.documentElement.lang = state.lang;
   document.title = t("siteTitle");
@@ -87,7 +94,7 @@ function buildPopup(r) {
       ${r.phone ? `<p><strong>${t("phone")}:</strong> <a href="tel:${r.phone.replace(/[^+\d]/g,'')}">${escape(r.phone)}</a></p>` : ""}
       ${r.hours ? `<p><strong>${t("hours")}:</strong> ${escape(r.hours)}</p>` : ""}
       ${langs ? `<p><strong>${t("languagesSpoken")}:</strong> ${escape(langs)}</p>` : ""}
-      ${r.notes ? `<p>${escape(r.notes)}</p>` : ""}
+      ${(() => { const n = loc(r.notes); return n ? `<p>${escape(n)}</p>` : ""; })()}
       <div class="popup-actions">
         ${r.website ? `<a href="${r.website}" target="_blank" rel="noopener">${t("visit")}</a>` : ""}
         <a class="secondary" href="${mapsUrl}" target="_blank" rel="noopener">${t("directions")}</a>
@@ -107,7 +114,7 @@ function renderList() {
   const q = state.query.trim().toLowerCase();
   state.filtered = state.resources.filter(r => {
     const catOk = state.category === "all" || r.category === state.category;
-    const text = `${r.name} ${r.address} ${r.notes || ""}`.toLowerCase();
+    const text = `${r.name} ${r.address} ${loc(r.notes)}`.toLowerCase();
     const qOk = !q || text.includes(q);
     return catOk && qOk;
   });
@@ -125,7 +132,7 @@ function renderList() {
 
   list.innerHTML = state.filtered.map(r => `
     <article class="resource-card" data-cat="${r.category}" data-id="${r.id}" tabindex="0">
-      <h3>${escape(r.name)}${r.verified === false ? ' <span class="unverified-flag" title="Details need verification">unverified</span>' : ''}</h3>
+      <h3>${escape(r.name)}</h3>
       <div class="meta">
         <span class="cat-pill" data-cat="${r.category}">${t(r.category)}</span>
         ${escape(r.address)}
